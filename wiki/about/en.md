@@ -26,13 +26,13 @@ At this point, I didn't want to consider other options because I wanted to keep 
 
 The wiki has been through a lot these past months and is still being worked on for improvement. You can see the design process below.
 
-![Original School Project](/assets/images/uploads/designold.png)
+![Original School Project](https://cdn.camellia.wiki/images/uploads/designold.png)
 
-![Redesign 1](/assets/images/uploads/designold2.png)
+![Redesign 1](https://cdn.camellia.wiki/images/uploads/designold2.png)
 
-![Redesign 2](/assets/images/uploads/designold3.png)
+![Redesign 2](https://cdn.camellia.wiki/images/uploads/designold3.png)
 
-![Redesign 3 (Latest)](/assets/images/uploads/designlatest.png)
+![Redesign 3 (Latest)](https://cdn.camellia.wiki/images/uploads/designlatest.png)
 
 Yeah, this is still the same codebase.
 

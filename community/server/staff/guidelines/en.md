@@ -167,7 +167,7 @@ If you are not in immediate crisis or danger and would like to find help, reach 
 
 *If you need an idea of where to create events. Scroll to the top of the channel list and locate the Event Button. You can see a screenshot example below.*
 
-![Click the Event Button!](/assets/images/staffGuidelines/eventstuf.png)
+![Click the Event Button!](https://cdn.camellia.wiki/images/staffGuidelines/eventstuf.png)
 {: .centerItem }
 
 *For Discord events, create a calendar date for an event start date and an event ending date. It also adjusts to time zones, making things easier for everyone!*
