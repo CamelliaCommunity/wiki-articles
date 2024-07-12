@@ -12,7 +12,7 @@ permalink: camellia-server/:title
 
 Hey, we’re early this time. Looks like Camellia's been all over the place these past few weeks. Let's recap some new Camellia songs this February!
 
-![February 2024 Monthly Logo](/assets/images/camellia/server/monthly/2024-february.png)
+![February 2024 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2024-february.png)
 
 ### 📰 Camellia News:
 **YouTube Channel Music Upgrade**: Camellia’s channel has received a musical note; prior soundtracks released under “Camellia - Topic” can now be found in select albums [underneath his channel’s “Releases” section](https://www.youtube.com/@Cametek.CamelliaOfficial/featured). All of your favorite songs, all in one place!
@@ -51,7 +51,7 @@ Thank you for reading this edition of Camellia Monthly. We hope you enjoyed it. 
 
 Happy New Year everyone! Camellia has managed to up the BPM once more and kick 2024 off with several bangers, and we'd love to see it! So how did he do it? Let's find out!
 
-![January 2024 Monthly Logo](/assets/images/camellia/server/monthly/2024-january.png)
+![January 2024 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2024-january.png)
 
 ### Camellia News
 
@@ -91,7 +91,7 @@ Happy New Year everyone! Camellia has managed to up the BPM once more and kick 2
 
 With 2023 finally ending, let's take a moment to think about all that's gone on this year... For now, though, let's review what happened in the last month of the year: December!
 
-![December 2023 Monthly Logo](/assets/images/camellia/server/monthly/2023-december.png)
+![December 2023 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2023-december.png)
 
 ### We're back to the canvas again, with more Camellia to be drawn
 
@@ -154,7 +154,7 @@ Thank you all for a great 2023, let's work together to have even more fun in 202
 
 The spooky month is officially over, but what isn’t? Camellia Monthly!
 
-![October 2023 Monthly Logo](/assets/images/camellia/server/monthly/2023-october.png)
+![October 2023 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2023-october.png)
 
 ### We Drew Camellia Together, Again
 
@@ -194,7 +194,7 @@ It’s time to spice things up with new-level role names and colors! We hope thi
 
 It's time to get spooky, everyone, because Halloween is near, and your September monthly is here!
 
-![September 2023 Monthly Logo](/assets/images/camellia/server/monthly/2023-september.png)
+![September 2023 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2023-september.png)
 
 ### Happy Birthday, Camellia
 

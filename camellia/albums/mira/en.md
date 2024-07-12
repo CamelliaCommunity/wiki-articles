@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![SQCE-00043](/assets/images/camellia/albums/SQCE-00043.jpg)
+![SQCE-00043](https://cdn.camellia.wiki/images/camellia/albums/SQCE-00043.jpg)
 *Mira* is a major album by [Quarks](#) ([kradness](#) × [Camellia]({% link postsWiki/_posts/2023-12-10-camellia.md %})) released on 2018-06-06 on the label [EXIT TUNES](#).
 
 ## Tracklist

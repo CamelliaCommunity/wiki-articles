@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![CTCD-005](/assets/images/camellia/albums/CTCD-005.jpg)
+![CTCD-005](https://cdn.camellia.wiki/images/camellia/albums/CTCD-005.jpg)
 *flow arrow* is a doujin promo by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) released on 2013-04-29 (M3-31) by the circle [かめるかめりあ](#).
 
 ## Tracklist

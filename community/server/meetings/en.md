@@ -78,7 +78,7 @@ The CamelliaCord now has full control of the organization. CamelliaCord will upd
 
 Overview of the event chart for people who missed it.
 
-![Professional Event Chart](/assets/images/camellia/server/meetings/k3WlZOz.png)
+![Professional Event Chart](https://cdn.camellia.wiki/images/camellia/server/meetings/k3WlZOz.png)
 
 - Each member showed no disagreement on the event chart above.
 - We discussed inviting the Adocord Event staff into the server. We will seperate them from the normal staff members due to them not being fully integrated within the Adocord's main staff team.

@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![KCCD-004](/assets/images/camellia/albums/KCCD-004.png)
+![KCCD-004](https://cdn.camellia.wiki/images/camellia/albums/KCCD-004.png)
 すりーぷ！ is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) feat. [ななひら](#) released on 2016-08-14 (Comiket 90) by the circles [かめるかめりあ](#) & [Confetto](#).
 
 It is the third collaboration album between *Camellia* and *Nanahira*.

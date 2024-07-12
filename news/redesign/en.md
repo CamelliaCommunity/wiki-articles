@@ -20,17 +20,17 @@ Issues or oversights are still there, they may have slipped through review. A go
 
 A code snippet is provided below for you to see :)
 
-![Jank Code Showcase](/assets/images/news/wikiOverhaul/jank.png)
+![Jank Code Showcase](https://cdn.camellia.wiki/images/news/wikiOverhaul/jank.png)
 
 I hope you like the new wiki changes! I tried to mimic other wikis and news sites and I think I did that pretty well. This has been a big learning experience personally relating to designing and implementing new stuff. I would like to thank the contributors who have given me feedback and helped me with questions and design choices. Hopefully things only get better from here!
 
 If you're unsure what's been changed, here are some screenshots of the old and new homepage.
 
 Before:
-![Before](/assets/images/news/wikiOverhaul/oldWiki.png)
+![Before](https://cdn.camellia.wiki/images/news/wikiOverhaul/oldWiki.png)
 
 After:
-![After](/assets/images/news/wikiOverhaul/newWiki.png)
+![After](https://cdn.camellia.wiki/images/news/wikiOverhaul/newWiki.png)
 
 Big difference right? There's still many improvements to be made but this update is a huge stepping stone on what's to come.
 

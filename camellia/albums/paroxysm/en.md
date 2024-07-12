@@ -10,7 +10,7 @@ date: 2024-01-22T06:26:49.871Z
 
 ## Overview
 
-![CTCD-007](/assets/images/camellia/albums/CTCD-007.jpg)
+![CTCD-007](https://cdn.camellia.wiki/images/camellia/albums/CTCD-007.jpg)
 *paroxysm* is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) (Camellia) released on 2013-12-31 (Comiket 85) by the circle [かめるかめりあ](#).
 
 It is the first intrumental album by *Camellia*. On 2019-12-31 the CD was re-released as part of the *Camellia Archives* series of re-releases. In the tracklist of the original CD release, the titles of tracks 1 and 2 are incorrectly swapped.

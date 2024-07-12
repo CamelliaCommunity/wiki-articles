@@ -8,7 +8,7 @@ permalink: camellia/discography/:title
 ---
 ## Overview
 
-![MOFU-0001](/assets/images/uploads/1_000000001432.jpg "いんふぃにてぃもふりてぃ")
+![MOFU-0001](https://cdn.camellia.wiki/images/uploads/1_000000001432.jpg "いんふぃにてぃもふりてぃ")
 
 いんふぃにてぃ🐰もふりてぃ is a doujin collaborative release by [p19](#) × [ななひら](#) × [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) released on 2017-12-31 (Comiket 93) by the circle [practise](#). 
 

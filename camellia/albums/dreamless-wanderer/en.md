@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![CTCD-010](/assets/images/camellia/albums/CTCD-010.png)
+![CTCD-010](https://cdn.camellia.wiki/images/camellia/albums/CTCD-010.png)
 *dreamless wanderer* is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) (Camellia) released on 2014-12-30 (Comiket 87) by the circle [かめるかめりあ](#).
 
 It is the fourth intrumental album by *Camellia*. In the tracklist of the original CD release, the titles of tracks 2, 3 and 4 are incorrectly swapped.

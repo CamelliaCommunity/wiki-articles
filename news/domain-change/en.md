@@ -10,7 +10,7 @@ description: The funny happened.
 ## 😎 WE HAVE A COOL DOMAIN 😎
 
 
-![papertek.github.io is gone](/assets/images/uploads/crabrave.gif "papertek.github.io is gone")
+![papertek.github.io is gone](https://cdn.camellia.wiki/images/uploads/crabrave.gif "papertek.github.io is gone")
 
 
 We have finally got a cool 😎 and fancy domain on [camellia.wiki](https://camellia.wiki)! We hope these changes will be easier to share with friends! Expect more work on replacing old papertek.github.io links in Discord and anywhere else.

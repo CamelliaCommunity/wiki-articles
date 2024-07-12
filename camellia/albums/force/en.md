@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![KCCD-006](/assets/images/camellia/albums/KCCD-006.png)
+![KCCD-006](https://cdn.camellia.wiki/images/camellia/albums/KCCD-006.png)
 ふぉーす！ is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) feat. [ななひら](#) released on 2017-12-29 (Comiket 93) by the circles [かめるかめりあ](#) & [Confetto](#).
 
 It is the fourth collaboration album between *Camellia* and *Nanahira*.

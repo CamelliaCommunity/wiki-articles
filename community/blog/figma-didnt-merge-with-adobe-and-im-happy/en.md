@@ -32,7 +32,7 @@ I (and so many other people) saw the merger as a bad one for a few reasons. Most
 
 Let's elaborate on the reasons provided. Adobe offers a program called Adobe Creative Cloud. It's not all that good; you need pay a lot to access the programs they list. I'm also sure you must pay for the Creative Cloud program, not including the other programs in it. I mean, look at this, it looks terrible.
 
-![Adobe Prices](/assets/images/blogs/theydidntbuy/shitprice.png)
+![Adobe Prices](https://cdn.camellia.wiki/images/blogs/theydidntbuy/shitprice.png)
 
 > You can view some other guy getting angry [in this other blog](https://davidthetornado.com/why-adobes-creative-cloud-is-fucking-shit/). It's really funny to read!
 {: .tip}

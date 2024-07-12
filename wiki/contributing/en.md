@@ -33,7 +33,7 @@ This website is using [Jekyll](https://jekyllrb.com/)! Jekyll is a static websit
 
 In theory, it should be effortless to contribute to articles and posts like the one you're looking at now. Each editable page has a link saying "Edit This Page!" meaning you could go ahead and edit the Markdown contents of the page.
 
-!["Edit This Page!" Button](/assets/images/articleImages/contributing/edithtispage.png)
+!["Edit This Page!" Button](https://cdn.camellia.wiki/images/articleImages/contributing/edithtispage.png)
 
 When users click "Edit This Page!", they are sent to the website's Content Management System (CMS), where they can edit the Markdown contents easily. Users who found their way into the CMS must also login using [GitHub](https://github.com/). GitHub will allow the user to create Pull Requests, commits, and more! Everything is done automatically in the CMS, so the average person only needs to worry about writing standards.
 
@@ -70,7 +70,7 @@ description: The one and only Camellia! Here, you can find information about Cam
 
 When a document is included in a Wiki Post, it will not show up on the homepage clearly. Instead, it will be shown under the Wiki Post as shown below. This is known as an *Included Post*.
 
-![Wiki Post with an Included Post Attached](/assets/images/articleImages/contributing/includedpoststuff.png)
+![Wiki Post with an Included Post Attached](https://cdn.camellia.wiki/images/articleImages/contributing/includedpoststuff.png)
 
 To add an *Included Post* within a *Wiki Post*, you must add `include: (Included Post Title)` in the Wiki Posts's front matter. Once done, it will be displayed in the wiki posts' card, just like magic!
 

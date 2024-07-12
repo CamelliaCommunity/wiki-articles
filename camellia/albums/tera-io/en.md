@@ -10,7 +10,7 @@ date: 2024-01-22T06:11:42.562Z
 
 ## Overview
 
-![CTCD-020](/assets/images/camellia/albums/CTCD-020.png)
+![CTCD-020](https://cdn.camellia.wiki/images/camellia/albums/CTCD-020.png)
 *Tera I/O* is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) (Camellia) released on 2020-09-27 by the circle [かめるかめりあ](#).
 
 It is a free download album to commemorate *Camellia* reaching 100,000 Twitter followers. It was also released as a CD.

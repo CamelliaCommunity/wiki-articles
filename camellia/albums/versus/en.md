@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![KCCD-001](/assets/images/camellia/albums/KCCD-001.png)
+![KCCD-001](https://cdn.camellia.wiki/images/camellia/albums/KCCD-001.png)
 ばーさす！ is a doujin album by [Camellia]({% link postsWiki/_posts/2023-12-10-camellia.md %}) feat. [Nanahira](#) released on 2014-08-17 (Comiket 86) by the circle [Confetto](#).
 
 It is the first collaboration album between *Camellia* and *Nanahira*.

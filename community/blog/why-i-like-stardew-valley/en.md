@@ -11,7 +11,7 @@ description: Here's a blog post on why Stardew Valley is my favorite game :3
 
 Stardew is a really fun game that I enjoy playing. The game starts with you talking to your grandpa at their house at night while they're lying in bed with a nice warm fire burning in the fireplace behind them. He hands the player an envelope with instructions for them to open it when they feel crushed by the burden of modern life and when their bright spirit begins to fade before a growing emptiness. The intro cuts to 20 years later when you're working in Joja corporation in a cubicle workspace. The player is surrounded by dark, dirty cubicles, working mindlessly at their computer; the player then opens the note they received, which reveals that their grandpa felt the same way they did, so they dropped everything and decided to move to a place they truly belonged. They proceed to give you the deed to their farm located in Stardew Valley. After this you move to Stardew Valley you enter a town called Pelican Town where the farm is located and when arriving you discover it to be in shambles, there's grass, wood, rocks, and trees overgrown everywhere. You're introduced to the woodworker and mayor of Pelican Town as they greet you, give you a tour of the farm, and teach you how to ship items. You go to sleep, and your adventure starts. 
 
-![Players ride to Stardew Valley](/assets/images/uploads/tumbr.gif "Players ride to Stardew Valley")
+![Players ride to Stardew Valley](https://cdn.camellia.wiki/images/uploads/tumbr.gif "Players ride to Stardew Valley")
 
 ## The Fun Begins
 

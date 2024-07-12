@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![CTCD-018](/assets/images/camellia/albums/CTCD-018.jpg)
+![CTCD-018](https://cdn.camellia.wiki/images/camellia/albums/CTCD-018.jpg)
 *heart of android* is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) (Camellia) released on 2018-12-30 (Comiket 95) by the circle [かめるかめりあ](#).
 
 ## Tracklist

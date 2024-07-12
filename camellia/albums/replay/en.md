@@ -9,7 +9,7 @@ permalink: camellia/discography/:title
 
 ## Overview
 
-![KCCD-003](/assets/images/camellia/albums/KCCD-003.jpg)
+![KCCD-003](https://cdn.camellia.wiki/images/camellia/albums/KCCD-003.jpg)
 りぷれい！ is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) feat. [ななひら](#) released on 2015-08-16 (Comiket 88) by the circles [かめるかめりあ](#) & [Confetto](#).
 
 It is the second collaboration album between *Camellia* and *Nanahira*.

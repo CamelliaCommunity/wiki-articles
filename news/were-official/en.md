@@ -22,11 +22,11 @@ I'm not sure Jekyll was meant for wiki sites since Jekyll is tailored mostly tow
 
 To give you an example of what kind of monstrous code is in the codebase, look at how breadcrumb navigation works.
 
-![Snippet of the breadcrumb code](/assets/images/uploads/stuidcode.png "Snippet of the breadcrumb code")
+![Snippet of the breadcrumb code](https://cdn.camellia.wiki/images/uploads/stuidcode.png "Snippet of the breadcrumb code")
 
 This code snippet is only for breadcrumbs like these.
 
-![Breadcrumbs in action](/assets/images/uploads/stupidbreadcrumb.png "Breadcrumbs in action")
+![Breadcrumbs in action](https://cdn.camellia.wiki/images/uploads/stupidbreadcrumb.png "Breadcrumbs in action")
 
 As you can see, it's a headache. We want to avoid this in the future, so we hope the rewrite will make us more sane.
 
@@ -36,11 +36,11 @@ Yes! We have made some good progress. We already have some lovely designs to imp
 
 Check out the latest homepage design!
 
-![New wiki homepage design](/assets/images/uploads/newwikihome.png "New wiki homepage design")
+![New wiki homepage design](https://cdn.camellia.wiki/images/uploads/newwikihome.png "New wiki homepage design")
 
 Look at what's been implemented so far! So cool!!!
 
-![Private wiki testing site](/assets/images/uploads/newwikiphoto.png "Private wiki testing site")
+![Private wiki testing site](https://cdn.camellia.wiki/images/uploads/newwikiphoto.png "Private wiki testing site")
 
 We'll update more on progress when things are usable! We will also consider eventually publicizing the repository for developers to play around with.
 
