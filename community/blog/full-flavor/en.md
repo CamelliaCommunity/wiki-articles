@@ -1,5 +1,6 @@
 ---
 layout: post
+type: community
 title: Full Flavor
 date: 2024-01-17T00:58:27.247Z
 category: pages

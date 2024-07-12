@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Ko-fi page!
 date: 2023-12-30 01:24 -0600
 category: pages

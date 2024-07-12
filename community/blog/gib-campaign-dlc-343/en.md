@@ -1,5 +1,6 @@
 ---
 layout: post
+type: community
 title: Give Campaign DLC 343
 date: 2024-01-01T23:00:02.610Z
 category: pages

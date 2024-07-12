@@ -1,5 +1,6 @@
 ---
 layout: post
+type: community
 title: The Merge Didn't Happen
 date: 2023-12-18 10:19 -0600
 category: pages

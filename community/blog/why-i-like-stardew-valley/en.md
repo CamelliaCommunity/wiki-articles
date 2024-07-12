@@ -1,5 +1,6 @@
 ---
 layout: post
+type: community
 title: Why I like Stardew Valley!
 date: 2023-12-27T01:00:05.334Z
 category: pages

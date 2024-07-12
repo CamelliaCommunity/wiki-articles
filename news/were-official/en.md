@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: A New Wiki
 date: 2024-04-09T06:18:00.000Z
 category: pages

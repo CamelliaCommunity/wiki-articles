@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Wiki Overhaul, Again
 date: 2023-12-12 04:31 -0600
 category: pages

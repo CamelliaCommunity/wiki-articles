@@ -1,5 +1,6 @@
 ---
 layout: post
+type: community
 title: Adobe Escape
 date: 2024-01-12T08:30:18.512Z
 category: pages

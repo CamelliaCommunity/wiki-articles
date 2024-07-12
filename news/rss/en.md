@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Does RSS Work?
 date: 2024-03-30T23:05
 category: pages

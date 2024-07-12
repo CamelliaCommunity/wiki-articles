@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Implementing a CMS
 date: 2023-12-26T01:57:20.939Z
 category: pages

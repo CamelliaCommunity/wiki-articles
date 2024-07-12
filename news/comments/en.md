@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Adding Comments
 date: 2024-02-04T12:53:58.717Z
 category: pages

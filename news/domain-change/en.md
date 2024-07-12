@@ -1,5 +1,6 @@
 ---
 layout: post
+type: news
 title: Announcing Domain Change
 date: 2024-01-06T07:00:00.000Z
 category: pages
