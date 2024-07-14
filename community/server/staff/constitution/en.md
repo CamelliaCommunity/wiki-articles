@@ -9,7 +9,7 @@ author: Camellia Server Staff
 
 > Go to the [Staff Guidelines](/staffGuidelines.html).
 
-We, the people (Camellians) of the Camellia Discord (CamelliaCord), come together and bond to create a better, easy-to-understand document of regulations and rules. Organized to promote equality and inclusivity and secure the Camellia Discord from any threat, inside and out. Her sovereignty is based on the rights of Camellia himself and the janitors, whose weight keeps pressing harder (Staff Members). Together, the team will control the server and push out punishment and rewards for people of the server.
+We, the people (Camellians) of the Camellia Discord (The Garden), come together and bond to create a better, easy-to-understand document of regulations and rules. Organized to promote equality and inclusivity and secure the Camellia Discord from any threat, inside and out. Her sovereignty is based on the rights of Camellia himself and the janitors, whose weight keeps pressing harder (Staff Members). Together, the team will control the server and push out punishment and rewards for people of the server.
 
 Thank you to some bar in Yugostan for giving me "inspiration" to create this document!
 
@@ -19,11 +19,11 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - Camellia
 
-**Admins** - J6papertek, Nicocchi, thecodingguy (Matt), seddywolf (cedric)
+**Admins** - J6papertek, thecodingguy (Matt), seddywolf (cedric), akiri
 
-**Elder Mods** - flustix (scissortek), ItMePeachy, akiri, exalvus (rocktek)
+**Elder Mods** - flustix, ItMePeachy, exalvus (rocktek)
 
-**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, xeno_butbetter, sjk04 (Phrygia)
+**Moderators** - burst06, h.i.p.e, hypertone, gridgalaxy (Casey), piavamusic (piquatek), moonthedarkwolf (lunartek), optelate, .deathgloom, shiosama (chai), eucobee, sjk04 (Phrygia), lillybearr (chocominttek), therealsemicolon, obsessiverealityzyndrome (kae), realmw_, mythinsu, mrkattsu (katt)
 
 **People's Roles** - (Member, Verified, Waffle/Pancake Leader, Community Artist, Community Contributor, Level Roles, Nitro Boosters, Ko-Fi Donator)
 
@@ -65,7 +65,7 @@ The server's hierarchy is broken into six major roles;
 
 ### The Eight Rules
 
-#### **1.** Elitism/toxicity is not allowed (don't be a dick).
+#### **1.** Toxicity is not allowed (don't be a dick).
 
 - This server is going to have a mixture of communities from all over the place (SDVX, IIDX, osu!, GD, etc.). Saying stuff like "osu! is a garbage game IIDX is better" will get you warned. We do not need this kind of elitism on this server. Everyone is equal. Harassment with malicious intent will not be tolerated.
 - We don't allow mini-modding. A helpful hand is always okay but do not try to handle staff-related situations yourself!
@@ -86,6 +86,7 @@ The server's hierarchy is broken into six major roles;
 #### **4.** Use channels correctly and keep discussion in English.
 
 - Sensitive or controversial topics such as religion, politics, and mental triggers belong in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265) (accessible to level 10 users and up).
+- If a serious topic turns into a thought-provoking topic outside of [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265), Camellians are required to move to ⁠[#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 - The majority of the people here speak English. If you want to speak another language, locate the correct language channels.
 
 #### **5.** No spamming or advertising.
@@ -136,6 +137,6 @@ With each case given to us, we must follow the [Staff Guidelines'](/staffGuideli
 
 Some transgressions against the Rules will result in a ban, some may experience a kick or a mute, and we will generally not divulge details about moderator actions unless an Admin grants permission (or an Admin willingly shares this information).
 
-If you wish to be unbanned from Discord, do not visit any of the staff team's social media or unnecessarily stalk them. Wick's ban appeal system is there for a reason![You may appeal here][(https://appeals.wickbot.com/).
+If you wish to be unbanned from Discord, do not visit any of the staff team's social media or unnecessarily stalk them. Wick's ban appeal system is there for a reason! [You may appeal here](https://appeals.wickbot.com/).
 
 Ban evading or aiding a ban will also be met with a ban without warning.
