@@ -239,7 +239,7 @@ This role is given to members selected from the Community Contributor Applicatio
 {: .tip }
 
 - Review server directions and feedback for understanding what the community wants/needs.
-- Read and review the [event]({{ site.baseurl }}#events) section.
+- Read and review the [event](#events) section.
 - Talk and communicate with server members and work with staff members to create something awesome!
 
 ### Promotion: What is considered

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### DARK THUNDER
 
-*DARK THUNDER* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-08-17.
+*DARK THUNDER* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Length: 05:04

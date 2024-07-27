@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### イーディーエム・ジャンパーズ
 
-*イーディーエム・ジャンパーズ* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-07-01.
+*イーディーエム・ジャンパーズ* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-07-01.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -23,7 +23,7 @@ permalink: camellia/discography/:title
 
 ### イーディーエム・ジャンパーズ ({E+H}DM Reboot)
 
-*イーディーエム・ジャンパーズ ({E+H}DM Reboot)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-04-30.
+*イーディーエム・ジャンパーズ ({E+H}DM Reboot)* is a remix by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Heart of Android : Even If It’s Only By Mechanism
 
-*Heart of Android : Even If It’s Only By Mechanism* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-12-30.
+*Heart of Android : Even If It’s Only By Mechanism* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-12-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Sugary
 
-*Sugary* is a song by [Quarks](#)([kradness](#)×[Camellia](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>)) first released on 2018-03-21.
+*Sugary* is a song by [Quarks](#)([kradness](#)×[Camellia](/camellia)) first released on 2018-03-21.
 
 * Composition: Quarks(Camellia)
 * Lyrics: Quarks(Camellia)

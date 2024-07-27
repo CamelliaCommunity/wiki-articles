@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace"
 
-*コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace"* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-02-06.
+*コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace"* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-02-06.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -23,7 +23,7 @@ permalink: camellia/discography/:title
 
 ### コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace" (Very Very Long Hosomaki Zushi Ver.)
 
-*コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace" (Very Very Long Hosomaki Zushi Ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-08-16.
+*コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace" (Very Very Long Hosomaki Zushi Ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

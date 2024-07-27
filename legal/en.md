@@ -19,12 +19,12 @@ Like any other service, we have begun implementing services that require some gr
 
 In our Terms of Service, we outline and describe some rules governing the use of the Camellia Wiki.
 
-[Read the Terms of Service](<{% link postsInclude/_posts/legal/2024-01-27-terms-of-service.md %}>)
+[Read the Terms of Service](/legal/terms)
 {: .buttonDefault .centerItem }
 
 ## Privacy Policy
 
 In our Privacy Policy, we outline and describe outlines what information we collect, use, and disclose.
 
-[Read the Privacy Policy](<{% link postsInclude/_posts/legal/2024-01-27-privacy-policy.md %}>)
+[Read the Privacy Policy](/legal/privacy)
 {: .buttonDefault .centerItem }

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 君の声は
 
-*君の声は* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-12-30.
+*君の声は* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-12-30.
 
 * Composition: かめりあ、つこ
 * Lyrics: かめりあ

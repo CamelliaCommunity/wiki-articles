@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 【高音質】魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！.mp4 (128kbps)
 
-*【高音質】魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！.mp4 (128kbps)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2019-08-12.
+*【高音質】魔力エネルギーで激ヤバ最強音質！マジカル☆オーディオ☆なんばーわん！.mp4 (128kbps)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

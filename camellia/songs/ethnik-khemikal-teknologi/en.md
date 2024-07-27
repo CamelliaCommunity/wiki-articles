@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Ethnik Khemikal Teknologi
 
-*Ethnik Khemikal Teknologi* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-08-11.
+*Ethnik Khemikal Teknologi* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-08-11.
 
 * Composition: かめりあ
 * Length: 06:30

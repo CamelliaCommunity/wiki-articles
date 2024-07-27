@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 新月が白く丸く輝いている夜に。
 
-*新月が白く丸く輝いている夜に。* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2011-10-30.
+*新月が白く丸く輝いている夜に。* is a song by [かめりあ](/camellia) (Camellia) first released on 2011-10-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

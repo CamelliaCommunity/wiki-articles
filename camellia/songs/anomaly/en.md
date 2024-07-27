@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ∀NOMALY
 
-*∀NOMALY* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-08-14.
+*∀NOMALY* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Length: 04:24
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### ∀NOMALY (かめりあ's "MUT∀TION" Schranz Remix)
 
-*∀NOMALY (かめりあ's "MUT∀TION" Schranz Remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-08-10.
+*∀NOMALY (かめりあ's "MUT∀TION" Schranz Remix)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2018-08-10.
 
 * Composition: かめりあ
 * Remix: かめりあ

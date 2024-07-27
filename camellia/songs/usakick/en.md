@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ウサキック！
 
-*ウサキック！* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-12-30.
+*ウサキック！* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-12-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

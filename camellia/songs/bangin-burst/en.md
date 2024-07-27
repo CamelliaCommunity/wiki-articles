@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Bangin' Burst
 
-*Bangin' Burst* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-12-27.
+*Bangin' Burst* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-12-27.
 
 * Composition: かめりあ
 * Length: 01:59
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### Bangin' Burst ("Outburst" Long ver.)
 
-*Bangin' Burst ("Outburst" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*Bangin' Burst ("Outburst" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:37

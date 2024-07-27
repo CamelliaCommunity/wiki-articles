@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Walkie Torpedo (Camellia's "Type 65 torpedo" Remix)
 
-*Walkie Torpedo (Camellia's "Type 65 torpedo" Remix)* is a song by [MAD CHILD](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2014-12-30.
+*Walkie Torpedo (Camellia's "Type 65 torpedo" Remix)* is a song by [MAD CHILD](#) remixed by [かめりあ](/camellia) first released on 2014-12-30.
 
 * Composition: MAD CHILD
 * Remix: かめりあ
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### WALKIE TORPEDO (Camellia's "Type 65 Torpedo" Remix) \[2018VIP\]
 
-*WALKIE TORPEDO (Camellia's "Type 65 Torpedo" Remix) \[2018VIP\]* is a song by [MAD CHILD](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2018-08-10.
+*WALKIE TORPEDO (Camellia's "Type 65 Torpedo" Remix) \[2018VIP\]* is a song by [MAD CHILD](#) remixed by [かめりあ](/camellia) first released on 2018-08-10.
 
 * Composition: MAD CHILD
 * Remix: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Bloody Kiss
 
-*Bloody Kiss* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-01-06.
+*Bloody Kiss* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-01-06.
 
 * Composition: かめりあ
 * Length: 03:38

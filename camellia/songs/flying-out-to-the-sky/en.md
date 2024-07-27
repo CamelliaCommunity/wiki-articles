@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### FLYING OUT TO THE SKY
 
-*FLYING OUT TO THE SKY* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-03-14.
+*FLYING OUT TO THE SKY* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-03-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -22,7 +22,7 @@ permalink: camellia/discography/:title
 
 ### FLYING OUT TO THE SKY (covered by ななひら, moimoi, Nana Takahashi)
 
-*FLYING OUT TO THE SKY (covered by ななひら, moimoi, Nana Takahashi)* is a cover by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-08-14.
+*FLYING OUT TO THE SKY (covered by ななひら, moimoi, Nana Takahashi)* is a cover by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -32,7 +32,7 @@ permalink: camellia/discography/:title
 
 ### Flying out to the sky
 
-*Flying out to the sky* is a cover by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2023-02-15.
+*Flying out to the sky* is a cover by [かめりあ](/camellia) feat. [かめりあ](/camellia) first released on 2023-02-15.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### Algorithm (Hitech Psy Self-remix)
 
-*Algorithm (Hitech Psy Self-remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-04-30.
+*Algorithm (Hitech Psy Self-remix)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

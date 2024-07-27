@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### GHOST
 
-*GHOST* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-10-30.
+*GHOST* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-10-30.
 
 * Composition: かめりあ
 * Length: 05:49
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### GHOST (2020 Halloween+++++++++ VIP)
 
-*GHOST (2020 Halloween+++++++++ VIP)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2020-10-15.
+*GHOST (2020 Halloween+++++++++ VIP)* is a song by [かめりあ](/camellia) (Camellia) first released on 2020-10-15.
 
 * Composition: かめりあ
 * Length: 05:35

@@ -8,7 +8,7 @@ author: papertek
 ---
 ## It took some effort
 
-But that effort is worth it with the new commenting system! With the help of <mark>@codertek</mark> and <mark>@flustix</mark>, a commenting system is now in place. With this new commenting system, we have added some important documentation you must remember. We have added a [Terms of Service](<{% link postsInclude/_posts/legal/2024-01-27-terms-of-service.md %}>) and [Privacy Policy](<{% link postsInclude/_posts/legal/2024-01-27-privacy-policy.md %}>) for the site because we *need* to, it's legal mumbo jumbo, tbh. We also argued about a button in the designs for a good 20 minutes.
+But that effort is worth it with the new commenting system! With the help of <mark>@codertek</mark> and <mark>@flustix</mark>, a commenting system is now in place. With this new commenting system, we have added some important documentation you must remember. We have added a [Terms of Service](/legal/terms) and [Privacy Policy](/legal/privacy) for the site because we *need* to, it's legal mumbo jumbo, tbh. We also argued about a button in the designs for a good 20 minutes.
 
 ![Left button is old, right button is new](https://cdn.camellia.wiki/images/uploads/buttonsstuff.png "Left button is old, right button is new")
 

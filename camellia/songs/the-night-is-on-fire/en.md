@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### The Night Is On Fire
 
-*The Night Is On Fire* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-12-30.
+*The Night Is On Fire* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-12-30.
 
 * Composition: かめりあ
 * Length: 05:06

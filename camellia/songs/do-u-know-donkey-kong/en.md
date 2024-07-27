@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### D0 U K|/|0VV D0|/|K3¥ K0|/|6?
 
-*D0 U K|/|0VV D0|/|K3¥ K0|/|6?* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-08-11.
+*D0 U K|/|0VV D0|/|K3¥ K0|/|6?* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-08-11.
 
 * Composition: かめりあ
 * Length: 04:27

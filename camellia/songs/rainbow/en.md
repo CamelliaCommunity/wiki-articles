@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Rainbow
 
-*Rainbow* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-08-17.
+*Rainbow* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### Rainbow (P*Light Remix)
 
-*Rainbow (P*Light Remix)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [P*Light](#) first released on 2016-08-14.
+*Rainbow (P*Light Remix)* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [P*Light](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

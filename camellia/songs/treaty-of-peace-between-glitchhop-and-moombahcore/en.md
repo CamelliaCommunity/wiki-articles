@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Treaty of Peace between GlitchHop and Moombahcore
 
-*Treaty of Peace between GlitchHop and Moombahcore* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-08-17.
+*Treaty of Peace between GlitchHop and Moombahcore* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Length: 04:29

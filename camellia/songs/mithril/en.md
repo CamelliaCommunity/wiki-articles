@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Mithril
 
-*Mithril* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-12-31.
+*Mithril* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-12-31.
 
 * Composition: かめりあ
 * Length: 05:08

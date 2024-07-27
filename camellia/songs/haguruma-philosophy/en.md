@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 歯車フィロソフィー
 
-*歯車フィロソフィー* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2012-07-08.
+*歯車フィロソフィー* is a song by [かめりあ](/camellia) (Camellia) first released on 2012-07-08.
 
 * Composition: かめりあ
 * Lyrics: 佐藤

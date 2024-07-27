@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### overkill
 
-*overkill* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-10-27.
+*overkill* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-10-27.
 
 * Composition: かめりあ
 * Length: 04:26
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### overkill (Schranz VIP)
 
-*overkill (Schranz VIP)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-04-30.
+*overkill (Schranz VIP)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Remix: かめりあ

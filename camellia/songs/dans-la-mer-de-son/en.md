@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Dans la mer de son
 
-*Dans la mer de son* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-10-30.
+*Dans la mer de son* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-10-30.
 
 * Composition: かめりあ
 * Length: 06:40

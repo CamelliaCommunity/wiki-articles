@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### путь льда(put' l'da)
 
-*путь льда(put' l'da)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-03-01.
+*путь льда(put' l'da)* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-03-01.
 
 * Composition: かめりあ
 * Length: 05:01

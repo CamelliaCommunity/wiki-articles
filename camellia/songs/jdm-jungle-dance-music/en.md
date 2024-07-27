@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### JDM (Jungle Dance Music)
 
-*JDM (Jungle Dance Music)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-08-11.
+*JDM (Jungle Dance Music)* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-08-11.
 
 * Composition: かめりあ
 * Length: 04:17

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### gigadelic (Camellia's "THE TERA" Remix)
 
-*gigadelic (Camellia's "THE TERA" Remix)* is a song by [teranoid](#) & [MC Natsack](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2015-07-01.
+*gigadelic (Camellia's "THE TERA" Remix)* is a song by [teranoid](#) & [MC Natsack](#) remixed by [かめりあ](/camellia) first released on 2015-07-01.
 
 * Composition: teranoid
 * Vocals: MC Natsack
@@ -23,7 +23,7 @@ permalink: camellia/discography/:title
 
 ### gigadelic (Camellia's "THE TERA" Remix) ["10¹²" Long ver.]
 
-*gigadelic (Camellia's "THE TERA" Remix) \["10¹²" Long ver.\]* is a song by [teranoid](#) & [MC Natsack](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2018-08-10.
+*gigadelic (Camellia's "THE TERA" Remix) \["10¹²" Long ver.\]* is a song by [teranoid](#) & [MC Natsack](#) remixed by [かめりあ](/camellia) first released on 2018-08-10.
 
 * Composition: teranoid
 * Vocals: MC Natsack

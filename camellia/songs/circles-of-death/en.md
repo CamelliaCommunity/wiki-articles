@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Circles of Death
 
-*Circles of Death* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2019-08-12.
+*Circles of Death* is a song by [かめりあ](/camellia) (Camellia) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Length: 03:43

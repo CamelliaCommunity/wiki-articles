@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### δ:for the DELTA
 
-*δ:for the DELTA* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-08-16.
+*δ:for the DELTA* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Length: 05:33
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### δ:for the DELTA (かめりあ's "PLANETARY//DUBSTEP" Remix)
 
-*δ:for the DELTA (かめりあ's "PLANETARY//DUBSTEP" Remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-08-10.
+*δ:for the DELTA (かめりあ's "PLANETARY//DUBSTEP" Remix)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2018-08-10.
 
 * Composition: かめりあ
 * Remix: かめりあ

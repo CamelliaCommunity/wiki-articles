@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Hello to the your first video game
 
-*Hello to the your first video game* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-04-27.
+*Hello to the your first video game* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-04-27.
 
 * Composition: かめりあ
 * Length: 04:43

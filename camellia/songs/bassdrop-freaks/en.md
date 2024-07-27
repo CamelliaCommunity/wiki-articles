@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### べィスドロップ・フリークス
 
-*べィスドロップ・フリークス* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-09-17.
+*べィスドロップ・フリークス* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-09-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -33,7 +33,7 @@ permalink: camellia/discography/:title
 
 ### べィスドロップ・フリークス (2018 "Redrop" ver.)
 
-*べィスドロップ・フリークス (2018 "Redrop" ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2018-03-21.
+*べィスドロップ・フリークス (2018 "Redrop" ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -45,7 +45,7 @@ permalink: camellia/discography/:title
 
 ### べィスドロップ・フリークス
 
-*べィスドロップ・フリークス* is a cover by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2023-02-15.
+*べィスドロップ・フリークス* is a cover by [かめりあ](/camellia) feat. [かめりあ](/camellia) first released on 2023-02-15.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

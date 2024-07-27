@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### しあわせのあおい蜘蛛
 
-*しあわせのあおい蜘蛛* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2011-05-01.
+*しあわせのあおい蜘蛛* is a song by [かめりあ](/camellia) (Camellia) first released on 2011-05-01.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

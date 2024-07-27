@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### オリガミカル・スウィートラヴ
 
-*オリガミカル・スウィートラヴ* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-07-27.
+*オリガミカル・スウィートラヴ* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-07-27.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -23,7 +23,7 @@ permalink: camellia/discography/:title
 
 ### オリガミカル・スウィートラヴ (Long ver.)
 
-*オリガミカル・スウィートラヴ (Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*オリガミカル・スウィートラヴ (Long ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

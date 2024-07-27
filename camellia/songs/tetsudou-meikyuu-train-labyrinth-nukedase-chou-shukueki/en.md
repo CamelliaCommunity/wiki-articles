@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 鉄道🚃迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～
 
-*鉄道🚃迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*鉄道🚃迷宮(TRAIN LABYRINTH) ～抜け出せ、超宿駅～* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

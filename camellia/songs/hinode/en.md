@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### HINODE
 
-*HINODE* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-12-31.
+*HINODE* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-12-31.
 
 * Composition: かめりあ
 * Length: 04:37
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### HINODE (Basscore VIP)
 
-*HINODE (Basscore VIP)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-04-30.
+*HINODE (Basscore VIP)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Remix: かめりあ

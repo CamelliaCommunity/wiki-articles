@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 魔法使いの絵の具
 
-*魔法使いの絵の具* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2011-10-30.
+*魔法使いの絵の具* is a song by [かめりあ](/camellia) (Camellia) first released on 2011-10-30.
 
 * Composition: かめりあ
 * Lyrics: タカナシトリコ

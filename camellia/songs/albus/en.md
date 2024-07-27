@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### {albus}
 
-*{albus}* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-03-24.
+*{albus}* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-03-24.
 
 * Composition: かめりあ
 * Length: 01:59
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### {albus} ("Silver" Long ver.)
 
-*{albus} ("Silver" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*{albus} ("Silver" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:29

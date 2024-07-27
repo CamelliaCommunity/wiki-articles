@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Honey♥Trap
 
-*Honey♥Trap* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-08-14.
+*Honey♥Trap* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

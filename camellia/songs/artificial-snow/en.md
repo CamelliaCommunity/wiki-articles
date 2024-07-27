@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Artificial Snow
 
-*Artificial Snow* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-12-31.
+*Artificial Snow* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-12-31.
 
 * Composition: かめりあ
 * Length: 04:26

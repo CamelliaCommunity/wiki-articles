@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 曲名、募集中。
 
-*曲名、募集中。* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2010-10-31.
+*曲名、募集中。* is a song by [かめりあ](/camellia) (Camellia) first released on 2010-10-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

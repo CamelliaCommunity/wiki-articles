@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Chirality
 
-*Chirality* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-07-08.
+*Chirality* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-07-08.
 
 * Composition: かめりあ
 * Length: 01:41
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### Chirality ("Dissymmetric" Long ver.)
 
-*Chirality ("Dissymmetric" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*Chirality ("Dissymmetric" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:20

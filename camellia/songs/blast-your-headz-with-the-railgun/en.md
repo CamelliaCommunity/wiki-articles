@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Blast your headz with the railgun
 
-*Blast your headz with the railgun* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-04-27.
+*Blast your headz with the railgun* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-04-27.
 
 * Composition: かめりあ
 * Length: 04:39
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### Blast your headz with the railgun (BassHouse VIP)
 
-*Blast your headz with the railgun (BassHouse VIP)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-04-24.
+*Blast your headz with the railgun (BassHouse VIP)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2016-04-24.
 
 * Composition: かめりあ
 * Remix: かめりあ

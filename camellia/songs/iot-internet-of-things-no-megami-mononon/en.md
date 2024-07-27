@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### IoT(※Internet of Things)の女神☆モノノン☆
 
-*IoT(※Internet of Things)の女神☆モノノン☆* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*IoT(※Internet of Things)の女神☆モノノン☆* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

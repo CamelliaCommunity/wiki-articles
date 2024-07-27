@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### シャッタースピード
 
-*シャッタースピード* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-08-16.
+*シャッタースピード* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### シャッタースピード -Upper Speed PHQ remix-
 
-*シャッタースピード -Upper Speed PHQ remix-* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2016-08-14.
+*シャッタースピード -Upper Speed PHQ remix-* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

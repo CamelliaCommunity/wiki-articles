@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### エナジー*ドリン娘◎ふぇいんちゃん！
 
-*エナジー*ドリン娘◎ふぇいんちゃん！* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2013-12-31.
+*エナジー*ドリン娘◎ふぇいんちゃん！* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2013-12-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### エナジー＊ドリン娘☆ふぇいんちゃん！(かめりあ's "MONSTERISTIC" Dempa Machinegun Psystyle Remix)
 
-*エナジー＊ドリン娘☆ふぇいんちゃん！(かめりあ's "MONSTERISTIC" Dempa Machinegun Psystyle Remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2018-08-10.
+*エナジー＊ドリン娘☆ふぇいんちゃん！(かめりあ's "MONSTERISTIC" Dempa Machinegun Psystyle Remix)* is a remix by [かめりあ](/camellia) feat. [ななひら](#) first released on 2018-08-10.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

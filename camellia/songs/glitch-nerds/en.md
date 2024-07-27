@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Glitch Nerds
 
-*Glitch Nerds* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-01-20.
+*Glitch Nerds* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-01-20.
 
 * Composition: かめりあ
 * Length: 04:37 / 02:02 (Game ver.)

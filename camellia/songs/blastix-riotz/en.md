@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Blastix Riotz
 
-*Blastix Riotz* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) as "Bang Riot" first released on 2015-08-21.
+*Blastix Riotz* is a song by [かめりあ](/camellia) as "Bang Riot" first released on 2015-08-21.
 
 * Composition: かめりあ
 * Length: 02:08
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### Blastix Riotz ("Fullblast" Long ver.)
 
-*Blastix Riotz ("Fullblast" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) as "Bang Riot" first released on 2018-03-21.
+*Blastix Riotz ("Fullblast" Long ver.)* is a song by [かめりあ](/camellia) as "Bang Riot" first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:34

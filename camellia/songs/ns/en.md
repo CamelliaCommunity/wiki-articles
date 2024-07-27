@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### \[ns\]
 
-*\[ns\]* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-12-30.
+*\[ns\]* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-12-30.
 
 * Composition: かめりあ
 * Length: 04:51

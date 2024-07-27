@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### welcome to wobbling field
 
-*welcome to wobbling field* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2012-07-08.
+*welcome to wobbling field* is a song by [かめりあ](/camellia) (Camellia) first released on 2012-07-08.
 
 * Composition: かめりあ
 * Lyrics: れいたん

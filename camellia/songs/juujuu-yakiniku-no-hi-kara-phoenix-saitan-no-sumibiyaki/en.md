@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～
 
-*じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-11-13.
+*じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-11-13.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -23,7 +23,7 @@ permalink: camellia/discography/:title
 
 ### じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-
 
-*じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*じゅーじゅー♥焼肉の火からフェニックス！？～再誕の†炭火焼き～ -ver. 《真》-* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

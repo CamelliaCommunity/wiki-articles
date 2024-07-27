@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 全日本お風呂化計画
 
-*全日本お風呂化計画* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-08-17.
+*全日本お風呂化計画* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

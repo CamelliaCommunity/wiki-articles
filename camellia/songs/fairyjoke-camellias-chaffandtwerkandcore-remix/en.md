@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### #FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX
 
-*#FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX* is a song by [uno](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2014-11-24.
+*#FairyJoke #CAMELLIAS_CHAFFANDTWERKANDCORE_REMIX* is a song by [uno](#) remixed by [かめりあ](/camellia) first released on 2014-11-24.
 
 * Composition: ZUN
 * Arrangement: uno

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Darkness Overload
 
-*Darkness Overload* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-04-24.
+*Darkness Overload* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-04-24.
 
 * Composition: かめりあ
 * Length: 04:26

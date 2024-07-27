@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### senpai, notice me!
 
-*senpai, notice me!* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*senpai, notice me!* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### senpai, notice me! (YUC'e Remix)
 
-*senpai, notice me! (YUC'e Remix)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [YUC'e](#) first released on 2019-08-12.
+*senpai, notice me! (YUC'e Remix)* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [YUC'e](#) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Paleolithic Period Wobble Bass
 
-*Paleolithic Period Wobble Bass* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-08-16.
+*Paleolithic Period Wobble Bass* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Length: 04:26

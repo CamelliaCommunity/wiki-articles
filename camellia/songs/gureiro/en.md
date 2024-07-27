@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### グレイロ
 
-*グレイロ* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2011-10-30.
+*グレイロ* is a song by [かめりあ](/camellia) (Camellia) first released on 2011-10-30.
 
 * Composition: かめりあ
 * Lyrics: タカナシトリコ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Free To Free
 
-*Free To Free* is a song by [Quarks](#)([kradness](#)×[Camellia](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>)) first released on 2016-07-06.
+*Free To Free* is a song by [Quarks](#)([kradness](#)×[Camellia](/camellia)) first released on 2016-07-06.
 
 * Composition: Quarks(Camellia)
 * Lyrics: Quarks(Camellia)

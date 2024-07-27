@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 觀測衞曐
 
-*觀測衞曐* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*觀測衞曐* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

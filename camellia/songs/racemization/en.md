@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Racemization
 
-*Racemization* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-08-16.
+*Racemization* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Length: 05:12

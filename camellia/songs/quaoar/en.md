@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Quaoar
 
-*Quaoar* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-07-07.
+*Quaoar* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-07-07.
 
 * Composition: かめりあ
 * Length: 04:50

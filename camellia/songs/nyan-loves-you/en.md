@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Nyan loves you♡
 
-*Nyan loves you♡* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2019-08-12.
+*Nyan loves you♡* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

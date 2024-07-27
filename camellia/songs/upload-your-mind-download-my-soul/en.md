@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Upload Your Mind :: Download My Soul
 
-*Upload Your Mind :: Download My Soul* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-12-30.
+*Upload Your Mind :: Download My Soul* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-12-30.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Fastest Crash
 
-*Fastest Crash* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-12-31.
+*Fastest Crash* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-12-31.
 
 * Composition: かめりあ
 * Length: 04:16
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### fastest crash (かめりあ's "paroxysmal" Hitech Remix)
 
-*fastest crash (かめりあ's "paroxysmal" Hitech Remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-08-10.
+*fastest crash (かめりあ's "paroxysmal" Hitech Remix)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2018-08-10.
 
 * Composition: かめりあ
 * Remix: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### The Lost Place In The New World
 
-*The Lost Place In The New World* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-10-30.
+*The Lost Place In The New World* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-10-30.
 
 * Composition: かめりあ
 * Length: 05:18

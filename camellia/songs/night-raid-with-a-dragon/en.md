@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Night Raid with a Dragon
 
-*Night Raid with a Dragon* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2019-08-12.
+*Night Raid with a Dragon* is a song by [かめりあ](/camellia) (Camellia) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Length: 03:37

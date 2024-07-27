@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### WHAT THE CAT!?
 
-*WHAT THE CAT!?* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-03-01.
+*WHAT THE CAT!?* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-03-01.
 
 * Composition: かめりあ
 * Length: 03:40

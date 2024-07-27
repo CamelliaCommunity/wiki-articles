@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### the beginning of the war
 
-*the beginning of the war* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-08-12.
+*the beginning of the war* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

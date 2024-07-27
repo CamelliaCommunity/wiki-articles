@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Dyscontrolled Galaxy
 
-*Dyscontrolled Galaxy* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-08-10.
+*Dyscontrolled Galaxy* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-08-10.
 
 * Composition: かめりあ
 * Length: 02:11
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### Dyscontrolled Galaxy ("Apoptosis" Long ver.)
 
-*Dyscontrolled Galaxy ("Apoptosis" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*Dyscontrolled Galaxy ("Apoptosis" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:58

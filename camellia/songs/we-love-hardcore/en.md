@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ウィー・ラヴ・ハードコア
 
-*ウィー・ラヴ・ハードコア* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-07-06.
+*ウィー・ラヴ・ハードコア* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-07-06.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

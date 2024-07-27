@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Key of timepieces
 
-*Key of timepieces* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-10-30.
+*Key of timepieces* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-10-30.
 
 * Composition: かめりあ
 * Length: 06:03

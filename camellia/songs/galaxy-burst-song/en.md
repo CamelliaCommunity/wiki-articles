@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### GALAXY BURST
 
-*GALAXY BURST* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*GALAXY BURST* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:11 / 02:32 (Game ver.)
@@ -22,7 +22,7 @@ permalink: camellia/discography/:title
 
 ### GALAXY BURST (lapix Remix)
 
-*GALAXY BURST (lapix Remix)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (remixed by [lapix](#)) first released on 2018-03-21.
+*GALAXY BURST (lapix Remix)* is a song by [かめりあ](/camellia) (remixed by [lapix](#)) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Remix: lapix

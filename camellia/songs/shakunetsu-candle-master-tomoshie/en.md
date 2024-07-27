@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 灼熱🔥キャンドルマスター🔥ともしぃ
 
-*灼熱🔥キャンドルマスター🔥ともしぃ* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-08-16.
+*灼熱🔥キャンドルマスター🔥ともしぃ* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

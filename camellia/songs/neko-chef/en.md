@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### NEKO\*CHEF
 
-*NEKO\*CHEF* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2014-08-17.
+*NEKO\*CHEF* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### NEKO\*CHEF -NEKO\*CHIP PHQ remix-
 
-*NEKO\*CHEF -NEKO\*CHIP PHQ remix-* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2015-08-16.
+*NEKO\*CHEF -NEKO\*CHIP PHQ remix-* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### See you(Camellia's Farewell Remix)
 
-*See you(Camellia's Farewell Remix)* is a song by [Shandy Kubota](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2012-12-31.
+*See you(Camellia's Farewell Remix)* is a song by [Shandy Kubota](#) remixed by [かめりあ](/camellia) first released on 2012-12-31.
 
 * Composition: Shandy Kubota
 * Remix: かめりあ
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### See you (Camellia's Farewell Remix) \[2018VIP\]
 
-*See you (Camellia's Farewell Remix) \[2018VIP\]* is a song by [Shandy Kubota](#) remixed by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2018-08-10.
+*See you (Camellia's Farewell Remix) \[2018VIP\]* is a song by [Shandy Kubota](#) remixed by [かめりあ](/camellia) first released on 2018-08-10.
 
 * Composition: Shandy Kubota
 * Remix: かめりあ

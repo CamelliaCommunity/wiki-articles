@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Exit This Earth's Atomosphere
 
-*Exit This Earth's Atomosphere* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-08-16.
+*Exit This Earth's Atomosphere* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Length: 05:32
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### Exit This Earth's Atomosphere (かめりあ's "PLANETARY//200STEP" Remix)
 
-*Exit This Earth's Atomosphere (かめりあ's "PLANETARY//200STEP" Remix)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-08-10.
+*Exit This Earth's Atomosphere (かめりあ's "PLANETARY//200STEP" Remix)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2018-08-10.
 
 * Composition: かめりあ
 * Remix: かめりあ

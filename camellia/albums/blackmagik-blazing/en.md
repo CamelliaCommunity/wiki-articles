@@ -10,7 +10,7 @@ permalink: camellia/discography/:title
 ## Overview
 
 ![CTCD-019](https://cdn.camellia.wiki/images/camellia/albums/CTCD-019.png)
-*Blackmagik Blazing* is a doujin album by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) released on 2019-08-12 (Comiket 96) by the circle [かめるかめりあ](#).
+*Blackmagik Blazing* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2019-08-12 (Comiket 96) by the circle [かめるかめりあ](#).
 
 ## Tracklist
 

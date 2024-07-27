@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Looking For A New Adventure
 
-*Looking For A New Adventure* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-08-14.
+*Looking For A New Adventure* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### Looking For A New Adventure(The 4th Remix)
 
-*Looking For A New Adventure(The 4th Remix)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [The 4th](#) first released on 2017-12-29.
+*Looking For A New Adventure(The 4th Remix)* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [The 4th](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

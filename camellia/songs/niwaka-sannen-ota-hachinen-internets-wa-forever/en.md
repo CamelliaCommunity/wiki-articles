@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ニワカ三年オタ八年、インターネッツはforever
 
-*ニワカ三年オタ八年、インターネッツはforever* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-12-31.
+*ニワカ三年オタ八年、インターネッツはforever* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-12-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)
 
-*ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-08-14.
+*ニワカ三年オタ八年、インターネッツはforever (長文スマソLong ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

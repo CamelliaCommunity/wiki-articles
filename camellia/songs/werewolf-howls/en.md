@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### werewolf howls.
 
-*werewolf howls.* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-09-26.
+*werewolf howls.* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-09-26.
 
 * Composition: ZUN
 * Arrangement: かめりあ
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 
 ### werewolf howls. ["Growling" Long ver.]
 
-*werewolf howls. ["Growling" Long ver.]* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-08-10.
+*werewolf howls. ["Growling" Long ver.]* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-08-10.
 
 * Composition: ZUN
 * Arrangement: かめりあ

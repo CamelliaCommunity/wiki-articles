@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ふゆぞら方程式
 
-*ふゆぞら方程式* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2010-10-31.
+*ふゆぞら方程式* is a song by [かめりあ](/camellia) (Camellia) first released on 2010-10-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

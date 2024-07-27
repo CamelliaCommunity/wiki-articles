@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Blackmagik Blazing
 
-*Blackmagik Blazing* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2019-08-12.
+*Blackmagik Blazing* is a song by [かめりあ](/camellia) (Camellia) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Length: 04:34

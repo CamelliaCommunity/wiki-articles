@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### EMPIRE OF FLAME
 
-*EMPIRE OF FLAME* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-02-05.
+*EMPIRE OF FLAME* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-02-05.
 
 * Composition: かめりあ
 * Length: 02:01
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### EMPIRE OF FLAME ("LábRys" Long ver.)
 
-*EMPIRE OF FLAME ("LábRys" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*EMPIRE OF FLAME ("LábRys" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:44

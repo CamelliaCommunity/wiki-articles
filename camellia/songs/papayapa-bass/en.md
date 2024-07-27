@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### PAPAYAPA BASS
 
-*PAPAYAPA BASS* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-10-26.
+*PAPAYAPA BASS* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-10-26.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 
 ### PAPAYAPA BASS (“BASSE DE NANA” Long ver.)
 
-*PAPAYAPA BASS (“BASSE DE NANA” Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2019-08-12.
+*PAPAYAPA BASS (“BASSE DE NANA” Long ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

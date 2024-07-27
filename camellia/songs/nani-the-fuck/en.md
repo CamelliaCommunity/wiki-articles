@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### NANI THE FUCK!!
 
-*NANI THE FUCK!!* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2019-08-12.
+*NANI THE FUCK!!* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2019-08-12.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

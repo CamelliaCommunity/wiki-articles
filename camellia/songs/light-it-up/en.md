@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Light It Up
 
-*Light It Up* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-12-31.
+*Light It Up* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-12-31.
 
 * Composition: かめりあ
 * Length: 06:14

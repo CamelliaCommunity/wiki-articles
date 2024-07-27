@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### (The) Immortal Scream
 
-*(The) Immortal Scream* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2016-04-24.
+*(The) Immortal Scream* is a song by [かめりあ](/camellia) (Camellia) first released on 2016-04-24.
 
 * Composition: かめりあ
 * Length: 04:33

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### /\*encryption(instrumental)\*/
 
-*/\*encryption(instrumental)\*/* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-08-12.
+*/\*encryption(instrumental)\*/* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-08-12.
 
 * Composition: かめりあ
 * Length: 01:38

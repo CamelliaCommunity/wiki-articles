@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### STEELFUCK
 
-*STEELFUCK* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-10-25.
+*STEELFUCK* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-10-25.
 
 * Composition: かめりあ
 * Length: 04:50
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### STEELFUCK (Dubstep VIP)
 
-*STEELFUCK (Dubstep VIP)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-04-30.
+*STEELFUCK (Dubstep VIP)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Remix: かめりあ

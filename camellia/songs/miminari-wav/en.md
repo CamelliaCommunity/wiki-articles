@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 耳鳴り.wav
 
-*耳鳴り.wav* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2010-10-31.
+*耳鳴り.wav* is a song by [かめりあ](/camellia) (Camellia) first released on 2010-10-31.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

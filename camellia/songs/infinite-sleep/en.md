@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ∞度寝
 
-*∞度寝* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2012-07-08.
+*∞度寝* is a song by [かめりあ](/camellia) (Camellia) first released on 2012-07-08.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### ロウスタイル・ボム
 
-*ロウスタイル・ボム* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2018-03-21.
+*ロウスタイル・ボム* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

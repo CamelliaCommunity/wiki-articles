@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### Jump Over!生物種 -Hang Over!PHQ remix- Remixed by PHQUASE
 
-*Jump Over!生物種 -Hang Over!PHQ remix- Remixed by PHQUASE* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2014-08-17.
+*Jump Over!生物種 -Hang Over!PHQ remix- Remixed by PHQUASE* is a song by [かめりあ](/camellia) feat. [ななひら](#) remixed by [PHQUASE](#) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

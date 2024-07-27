@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### You Make My Life 1UP
 
-*You Make My Life 1UP* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-08-17.
+*You Make My Life 1UP* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-08-17.
 
 * Composition: かめりあ
 * Lyrics: かめりあ
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### You Make My Life 1UP (x127 Long ver.)
 
-*You Make My Life 1UP (x127 Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2017-12-29.
+*You Make My Life 1UP (x127 Long ver.)* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2017-12-29.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

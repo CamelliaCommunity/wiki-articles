@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Jingle (Metal Arrange / Cover)
 
-*Jingle (Metal Arrange / Cover)* is a song by [DJ Noriken](#) covered by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) first released on 2018-08-10.
+*Jingle (Metal Arrange / Cover)* is a song by [DJ Noriken](#) covered by [かめりあ](/camellia) first released on 2018-08-10.
 
 * Composition: DJ Noriken
 * Arrangement: かめりあ

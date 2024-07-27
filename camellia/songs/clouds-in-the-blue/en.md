@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Clouds in the Blue
 
-*Clouds in the Blue* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-03-01.
+*Clouds in the Blue* is a song by [かめりあ](/camellia) (Camellia) first released on 2017-03-01.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

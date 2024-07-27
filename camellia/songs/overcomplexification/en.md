@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### overcomplexification
 
-*overcomplexification* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2015-02-20.
+*overcomplexification* is a song by [かめりあ](/camellia) (Camellia) first released on 2015-02-20.
 
 * Composition: かめりあ
 * Length: 01:56
@@ -20,7 +20,7 @@ permalink: camellia/discography/:title
 
 ### overcomplexification ("Quaternion" Long ver.)
 
-*overcomplexification ("Quaternion" Long ver.)* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2018-03-21.
+*overcomplexification ("Quaternion" Long ver.)* is a song by [かめりあ](/camellia) (Camellia) first released on 2018-03-21.
 
 * Composition: かめりあ
 * Length: 04:39

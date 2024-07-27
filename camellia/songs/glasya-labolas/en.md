@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Glasya-Labolas
 
-*Glasya-Labolas* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) VS. [PHQUASE](#) first released on 2016-07-06.
+*Glasya-Labolas* is a song by [かめりあ](/camellia) VS. [PHQUASE](#) first released on 2016-07-06.
 
 * Composition: かめりあ、PHQUASE
 * Length: 05:09

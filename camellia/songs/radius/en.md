@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### R.A.D.I.U.S.
 
-*R.A.D.I.U.S.* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2014-08-17.
+*R.A.D.I.U.S.* is a song by [かめりあ](/camellia) (Camellia) first released on 2014-08-17.
 
 * Composition: かめりあ
 * Length: 04:51
@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 
 ### R.A.D.I.U.S. (Techdance VIP)
 
-*R.A.D.I.U.S. (Techdance VIP)* is a remix by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2017-04-30.
+*R.A.D.I.U.S. (Techdance VIP)* is a remix by [かめりあ](/camellia) (Camellia) first released on 2017-04-30.
 
 * Composition: かめりあ
 * Remix: かめりあ

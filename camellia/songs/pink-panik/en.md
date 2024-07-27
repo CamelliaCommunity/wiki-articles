@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### Pink Panik!!
 
-*Pink Panik!!* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2015-08-16.
+*Pink Panik!!* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2015-08-16.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

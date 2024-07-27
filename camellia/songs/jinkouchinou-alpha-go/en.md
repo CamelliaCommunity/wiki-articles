@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### 人工知能：あるふぁ～★GO！！
 
-*人工知能：あるふぁ～★GO！！* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) feat. [ななひら](#) first released on 2016-08-14.
+*人工知能：あるふぁ～★GO！！* is a song by [かめりあ](/camellia) feat. [ななひら](#) first released on 2016-08-14.
 
 * Composition: かめりあ
 * Lyrics: かめりあ

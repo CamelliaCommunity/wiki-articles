@@ -11,7 +11,7 @@ permalink: camellia/discography/:title
 
 ### flow arrow
 
-*flow arrow* is a song by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-04-29.
+*flow arrow* is a song by [かめりあ](/camellia) (Camellia) first released on 2013-04-29.
 
 * Composition: かめりあ
 * Lyrics: れいたん&かめりあ
@@ -21,7 +21,7 @@ permalink: camellia/discography/:title
 
 ### flow arrow(inst.)
 
-*flow arrow(inst.)* is a instrumental by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) first released on 2013-04-29.
+*flow arrow(inst.)* is a instrumental by [かめりあ](/camellia) (Camellia) first released on 2013-04-29.
 
 * Composition: かめりあ
 * Length: 05:36
