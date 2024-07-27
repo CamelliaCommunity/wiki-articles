@@ -4,6 +4,7 @@ title: Camellia
 date: 2023-12-10 13:35 -0600
 category: pages
 author: JoshuaGreatXD
+image: https://cdn.camellia.wiki/images/articleImages/camellia/camellia.png
 description: The one and only Camellia! Here, you can find information about
   Camellia's background and accomplishments.
 include: Discography, Guest Appearances, Featured Rhythm Games, Camellia Q&A
