@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:16
-* Album Appearances: [paroxysm](<{% link postsInclude/_posts/camellia/albums/paroxysm/2023-12-05-paroxysm.md%}>)
+* Album Appearances: [paroxysm](/camellia/albums/paroxysm)
 
 ### fastest crash (かめりあ's "paroxysmal" Hitech Remix)
 
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 * Composition: かめりあ
 * Remix: かめりあ
 * Length: 06:08
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md%}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)
 
 ## External Links
 

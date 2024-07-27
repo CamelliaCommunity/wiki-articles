@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:34
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)
 
 ### Rainbow (P*Light Remix)
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: P*Light
 * Length: 03:54
-* Album Appearances: [すりーぷ！](<{% link postsInclude/_posts/camellia/albums/Sleep/2023-12-18-Sleep.md %}>)
+* Album Appearances: [すりーぷ！](/camellia/albums/Sleep)
 
 ## External Links
 

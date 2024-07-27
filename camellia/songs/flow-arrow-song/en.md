@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: れいたん&かめりあ
 * Vocals: 初音ミク
 * Length: 05:38
-* Album Appearances: [flow arrow](<{% link postsInclude/_posts/camellia/albums/flow-arrow/2024-02-24-flow-arrow.md %}>) and [Stance on Wave](<{% link postsInclude/_posts/camellia/albums/Stance-on-Wave/2023-12-06-Stance-on-Wave.md %}>)
+* Album Appearances: [flow arrow](/camellia/albums/flow-arrow/2024-02-24-flow-arrow) and [Stance on Wave](/camellia/albums/Stance-on-Wave)
 
 ### flow arrow(inst.)
 
@@ -25,4 +25,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 05:36
-* Album Appearances: [flow arrow](<{% link postsInclude/_posts/camellia/albums/flow-arrow/2024-02-24-flow-arrow.md %}>)
+* Album Appearances: [flow arrow](/camellia/albums/flow-arrow/2024-02-24-flow-arrow)

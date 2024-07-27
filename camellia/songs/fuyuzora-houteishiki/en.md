@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: 初音ミク
 * Length: 05:15
-* Album Appearances: [ハニージンジャーエール](<{% link postsInclude/_posts/camellia/albums/honey-ginjer-ale/2023-12-06-honey-ginjer-ale.md %}>)
+* Album Appearances: [ハニージンジャーエール](/camellia/albums/honey-ginjer-ale)

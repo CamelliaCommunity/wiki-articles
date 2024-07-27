@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:21
-* Album Appearances: [INSANE INFLAME](<{% link postsInclude/_posts/camellia/albums/INSANE-INFLAME/2023-12-18-INSANE-INFLAME.md %}>)
+* Album Appearances: [INSANE INFLAME](/camellia/albums/INSANE-INFLAME)
 
 ## External Links
 

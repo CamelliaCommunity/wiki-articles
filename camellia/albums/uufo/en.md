@@ -11,7 +11,7 @@ date: 2024-01-20T06:23:07.757Z
 ## Overview
 
 ![CTCD-021-022](https://cdn.camellia.wiki/images/camellia/albums/CTCD-021-022.jpg)
-*U.U.F.O.* is a doujin album by [かめりあ]({% link postsWiki/_posts/2023-12-10-camellia.md %}) (Camellia) released on 2021-07-11 by the circle [かめるかめりあ](#).
+*U.U.F.O.* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2021-07-11 by the circle [かめるかめりあ](#).
 
 ## Tracklist
 

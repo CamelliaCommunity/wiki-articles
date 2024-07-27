@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 05:33
-* Album Appearances: [PLANET//SHAPER](<{% link postsInclude/_posts/camellia/albums/PLANET--SHAPER/2023-12-12-PLANET--SHAPER.md %}>)
+* Album Appearances: [PLANET//SHAPER](/camellia/albums/PLANET--SHAPER)
 
 ### δ:for the DELTA (かめりあ's "PLANETARY//DUBSTEP" Remix)
 
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 * Composition: かめりあ
 * Remix: かめりあ
 * Length: 05:50
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)
 
 ## External Links
 

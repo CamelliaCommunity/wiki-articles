@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:31
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)
 
 ### NEKO\*CHEF -NEKO\*CHIP PHQ remix-
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: PHQUASE
 * Length: 04:39
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [りぷれい！](/camellia/albums/Replay)
 
 ## External Links
 

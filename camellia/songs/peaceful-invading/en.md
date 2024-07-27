@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: かめりあ
 * Length: 04:58
-* Album Appearances: [\[diffraction\]](<{% link postsInclude/_posts/camellia/albums/diffraction/2023-12-05-diffraction.md %}>)
+* Album Appearances: [\[diffraction\]](/camellia/albums/diffraction)
 
 ## External Links
 

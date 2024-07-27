@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:19
-* Album Appearances: [\[diffraction\]](<{% link postsInclude/_posts/camellia/albums/diffraction/2023-12-05-diffraction.md %}>)
+* Album Appearances: [\[diffraction\]](/camellia/albums/diffraction)
 
 ## External Links
 

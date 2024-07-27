@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:47
-* Album Appearances: [ふぉーす！](<{% link postsInclude/_posts/camellia/albums/Force/2023-12-20-Force.md %}>)
+* Album Appearances: [ふぉーす！](/camellia/albums/Force)
 
 ### ベースラインやってる？笑 (Cranky Remix)
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: Cranky
 * Length: 04:48
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)
 
 ## External Links
 

@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: 初音ミク
 * Length: 06:35
-* Album Appearances: [Michno-sequence](<{% link postsInclude/_posts/camellia/albums/Michno-sequence/2023-12-06-Michno-sequence.md %}>) and [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)
+* Album Appearances: [Michno-sequence](/camellia/albums/Michno-sequence)//www.nicovideo.jp/watch/sm19696423)

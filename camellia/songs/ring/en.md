@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:13
-* Album Appearances: [paroxysm](<{% link postsInclude/_posts/camellia/albums/paroxysm/2023-12-05-paroxysm.md%}>)
+* Album Appearances: [paroxysm](/camellia/albums/paroxysm)
 
 ## External Links
 

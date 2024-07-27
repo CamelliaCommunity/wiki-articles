@@ -18,7 +18,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Length: 01:54
 * BPM: 210
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [りぷれい！](/camellia/albums/Replay)
 * Game Appearances: [SOUND VOLTEX II -infinite infection-](https://remywiki.com/AC_SDVX_II)
 
 ### コンベア速度 Max!? しゃいにん☆廻転ズシ"Sushi & Peace" (Very Very Long Hosomaki Zushi Ver.)
@@ -29,4 +29,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:28
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [りぷれい！](/camellia/albums/Replay)

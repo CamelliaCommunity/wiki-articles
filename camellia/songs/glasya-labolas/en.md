@@ -15,4 +15,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ、PHQUASE
 * Length: 05:09
-* Album Appearances: [MEGANTO METEOR](<{% link postsInclude/_posts/camellia/albums/MEGANTO-METEOR/2023-12-21-MEGANTO-METEOR.md %}>)
+* Album Appearances: [MEGANTO METEOR](/camellia/albums/MEGANTO-METEOR)

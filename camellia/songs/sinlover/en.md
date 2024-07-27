@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: 初音ミク
 * Length: 04:45
-* Album Appearances: [mikUbiquity](<{% link postsInclude/_posts/camellia/albums/mikUbiquity/2023-12-06-mikUbiquity.md %}>)
+* Album Appearances: [mikUbiquity](/camellia/albums/mikUbiquity)

@@ -10,7 +10,7 @@ permalink: camellia/discography/:title
 ## Overview
 
 ![KRCA-00001](https://cdn.camellia.wiki/images/camellia/albums/KRCA-00001.jpg)
-*Dualive* is a mini-album by [Quarks](#) ([kradness](#) × [Camellia]({% link postsWiki/_posts/2023-12-10-camellia.md %})) released on 2016-04-24 (M3-37).
+*Dualive* is a mini-album by [Quarks](#) ([kradness](#) × [Camellia](/camellia)) released on 2016-04-24 (M3-37).
 
 ## Tracklist
 

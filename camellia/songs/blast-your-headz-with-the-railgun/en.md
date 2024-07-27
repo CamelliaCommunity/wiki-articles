@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:39
-* Album Appearances: [\[diffraction\]](<{% link postsInclude/_posts/camellia/albums/diffraction/2023-12-05-diffraction.md %}>)
+* Album Appearances: [\[diffraction\]](/camellia/albums/diffraction)
 
 ### Blast your headz with the railgun (BassHouse VIP)
 
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 * Composition: かめりあ
 * Remix: かめりあ
 * Length: 03:13
-* Album Appearances: [INSANE INFLAME](<{% link postsInclude/_posts/camellia/albums/INSANE-INFLAME/2023-12-18-INSANE-INFLAME.md %}>)
+* Album Appearances: [INSANE INFLAME](/camellia/albums/INSANE-INFLAME)
 
 ## External Links
 

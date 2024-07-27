@@ -16,5 +16,5 @@ permalink: camellia/discography/:title
 * Composition: かめりあ
 * Length: 04:10 / 01:45 (Game ver.)
 * BPM: 174
-* Album Appearances: [MEGANTO METEOR](<{% link postsInclude/_posts/camellia/albums/MEGANTO-METEOR/2023-12-21-MEGANTO-METEOR.md %}>)
+* Album Appearances: [MEGANTO METEOR](/camellia/albums/MEGANTO-METEOR)
 * Game Appearances: [jubeat plus](https://remywiki.com/CS_jb_plus) and [REFLEC BEAT plus](https://remywiki.com/CS_RB_plus)

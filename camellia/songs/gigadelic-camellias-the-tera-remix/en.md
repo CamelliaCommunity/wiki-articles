@@ -18,7 +18,7 @@ permalink: camellia/discography/:title
 * Remix: かめりあ
 * Length: 02:03
 * BPM: 183
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)
 * Game Appearances: [SOUND VOLTEX III GRAVITY WARS](https://remywiki.com/AC_SDVX_III)
 
 ### gigadelic (Camellia's "THE TERA" Remix) ["10¹²" Long ver.]
@@ -29,4 +29,4 @@ permalink: camellia/discography/:title
 * Vocals: MC Natsack
 * Remix: かめりあ
 * Length: 05:34
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)

@@ -15,4 +15,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 00:41
-* Album Appearances: [flow arrow](<{% link postsInclude/_posts/camellia/albums/flow-arrow/2024-02-24-flow-arrow.md %}>)
+* Album Appearances: [flow arrow](/camellia/albums/flow-arrow/2024-02-24-flow-arrow)

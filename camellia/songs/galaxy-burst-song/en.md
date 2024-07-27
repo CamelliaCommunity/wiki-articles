@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Length: 04:11 / 02:32 (Game ver.)
 * BPM: 201
 * Genre: Machinegun Psystyle / Chimera Speedcore
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)
 * Game Appearances: [SOUND VOLTEX VIVID WAVE](https://remywiki.com/AC_SDVX_VW)
 
 ### GALAXY BURST (lapix Remix)
@@ -29,4 +29,4 @@ permalink: camellia/discography/:title
 * Length: 04:02
 * BPM: 153
 * Genre: Hitech
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)

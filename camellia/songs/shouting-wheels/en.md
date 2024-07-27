@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: 初音ミク
 * Length: 03:59
-* Album Appearances: [TRIPPERS](<{% link postsInclude/_posts/camellia/albums/TRIPPERS/2023-12-06-TRIPPERS.md %}>)
+* Album Appearances: [TRIPPERS](/camellia/albums/TRIPPERS)

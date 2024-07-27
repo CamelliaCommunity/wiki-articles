@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:19
-* Album Appearances: [Blackmagik Blazing](<{% link postsInclude/_posts/camellia/albums/Blackmagik-Blazing/2023-12-21-Blackmagik-Blazing.md %}>)
+* Album Appearances: [Blackmagik Blazing](/camellia/albums/Blackmagik-Blazing)
 
 ## External Links
 

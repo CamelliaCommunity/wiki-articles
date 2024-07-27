@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:06
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>) and [Meltical sugar wave](http://nanahira.extsm.com/)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)//nanahira.extsm.com/)
 
 ## External Links
 

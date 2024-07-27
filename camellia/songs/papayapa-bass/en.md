@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 * Length: 02:08
 * BPM: 147
 * Genre: MONDO-GROOVE BASSHOUSE
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)
 * Game Appearances: [beatmania IIDX 24 SINOBUZ](https://remywiki.com/AC_SINOBUZ)
 
 ### PAPAYAPA BASS (“BASSE DE NANA” Long ver.)
@@ -30,4 +30,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 05:02
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)

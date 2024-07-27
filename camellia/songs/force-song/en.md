@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 05:09
-* Album Appearances: [ふぉーす！](<{% link postsInclude/_posts/camellia/albums/Force/2023-12-20-Force.md %}>)
+* Album Appearances: [ふぉーす！](/camellia/albums/Force)
 
 ## External Links
 

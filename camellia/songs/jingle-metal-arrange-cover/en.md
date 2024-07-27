@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Arrangement: かめりあ
 * Vocals: かめりあ
 * Length: 04:43
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)

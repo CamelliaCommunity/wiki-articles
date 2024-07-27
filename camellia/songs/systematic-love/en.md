@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: さつき が てんこもり
 * Vocals: 初音ミク
 * Length: 05:06
-* Album Appearances: [Party Junkie](https://www.nicovideo.jp/watch/sm19696423) and [Stance on Wave](<{% link postsInclude/_posts/camellia/albums/Stance-on-Wave/2023-12-06-Stance-on-Wave.md %}>)
+* Album Appearances: [Party Junkie](https://www.nicovideo.jp/watch/sm19696423) and [Stance on Wave](/camellia/albums/Stance-on-Wave)

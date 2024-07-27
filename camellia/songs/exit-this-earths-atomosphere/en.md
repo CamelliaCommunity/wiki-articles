@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 05:32
-* Album Appearances: [PLANET//SHAPER](<{% link postsInclude/_posts/camellia/albums/PLANET--SHAPER/2023-12-12-PLANET--SHAPER.md %}>)
+* Album Appearances: [PLANET//SHAPER](/camellia/albums/PLANET--SHAPER)
 
 ### Exit This Earth's Atomosphere (かめりあ's "PLANETARY//200STEP" Remix)
 
@@ -24,7 +24,7 @@ permalink: camellia/discography/:title
 * Composition: かめりあ
 * Remix: かめりあ
 * Length: 06:46
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)
 
 ## External Links
 

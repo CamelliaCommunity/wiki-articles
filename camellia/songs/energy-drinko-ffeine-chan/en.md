@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:11
-* Album Appearances: [Voltage Ignition 2](http://c-h-s.me/motf-0002/) and [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [Voltage Ignition 2](http://c-h-s.me/motf-0002/) and [りぷれい！](/camellia/albums/Replay)
 
 ### エナジー＊ドリン娘☆ふぇいんちゃん！(かめりあ's "MONSTERISTIC" Dempa Machinegun Psystyle Remix)
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: かめりあ
 * Length: 05:41
-* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](<{% link postsInclude/_posts/camellia/albums/Camellia-Remixes-Summary-VIPs-02/2023-12-20-Camellia-Remixes-Summary-VIPs-02.md %}>)
+* Album Appearances: [Camellia "Remixes" Summary & VIPs 02](/camellia/albums/Camellia-Remixes-Summary-VIPs-02)
 
 ## External Links
 

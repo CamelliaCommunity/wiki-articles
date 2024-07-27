@@ -14,9 +14,9 @@ permalink: camellia/discography/:title
 
 ## Tracklist
 
-1. [presound](<{% link postsInclude/_posts/camellia/songs/presound/2024-02-24-presound.md %}>) (00:41)
-2. [flow arrow](<{% link postsInclude/_posts/camellia/songs/flow-arrow-song/2024-02-24-flow-arrow-song.md %}>) (05:38)
-3. [flow arrow(inst.)](<{% link postsInclude/_posts/camellia/songs/flow-arrow-song/2024-02-24-flow-arrow-song.md %}>) (05:36)
+1. [presound](<{% link postsInclude/_posts/camellia/songs/presound/2024-02-24-presound) (00:41)
+2. [flow arrow](<{% link postsInclude/_posts/camellia/songs/flow-arrow-song/2024-02-24-flow-arrow-song) (05:38)
+3. [flow arrow(inst.)](<{% link postsInclude/_posts/camellia/songs/flow-arrow-song/2024-02-24-flow-arrow-song) (05:36)
 
 Total Length: 11:55
 

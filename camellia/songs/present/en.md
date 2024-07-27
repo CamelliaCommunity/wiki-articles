@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 * Guitar: つこ
 * Bass: つこ
 * Length: 04:47
-* Album Appearances: [ふぉーす！](<{% link postsInclude/_posts/camellia/albums/Force/2023-12-20-Force.md %}>)
+* Album Appearances: [ふぉーす！](/camellia/albums/Force)
 
 ## External Links
 

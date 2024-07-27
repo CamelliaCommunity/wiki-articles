@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 02:12
-* Album Appearances: [PLANET//SHAPER](<{% link postsInclude/_posts/camellia/albums/PLANET--SHAPER/2023-12-12-PLANET--SHAPER.md %}>)
+* Album Appearances: [PLANET//SHAPER](/camellia/albums/PLANET--SHAPER)
 
 ## External Links
 

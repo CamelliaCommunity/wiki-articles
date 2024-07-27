@@ -297,7 +297,7 @@ Here, you will find various Camellia guest appearances. If you see anything miss
 * [Toho-Assisted-Speedrun!!!](#) (*from [イノセントキー VS 虎](https://web.archive.org/web/20150206131014/http://innocent-key.com/discog.php?page=27)*)
 * [CLOUDY WITH INTERMITTENT RAIN](#) (*from [DECADE OF EXPOSE](https://web.archive.org/web/20140104131256/http://alst.net/2013/12/25/arcd0042-decade-of-expose/)*)
 * [LAPSE](#) (*from [DECADE OF EXPOSE](https://web.archive.org/web/20140104131256/http://alst.net/2013/12/25/arcd0042-decade-of-expose/)*)
-* [鈍色トリガー](<{% link postsInclude/_posts/camellia/songs/Nibiiro-Trigger/2024-02-24-Nibiiro-Trigger.md %}>) (*from [Circle Jerk Galactic](https://www.nicovideo.jp/watch/sm22516063)*)
+* [鈍色トリガー](<{% link postsInclude/_posts/camellia/songs/Nibiiro-Trigger/2024-02-24-Nibiiro-Trigger) (*from [Circle Jerk Galactic](https://www.nicovideo.jp/watch/sm22516063)*)
 * [Fly to night, tonight](#) (*from [Circle Jerk Galactic](https://www.nicovideo.jp/watch/sm22516063)*)
 * [HINODE](#) (*from [ARATOSHI](https://web.archive.org/web/20131225225842/http://www.massivecirclez.com/aratoshi.php)*)
 * [Remember(Camellia's "reconstruction of recollection" Remix)](#) (*from [TANO*C REMIXES 3](https://www.tano-c.net/release/tcplus-0012/)*)
@@ -315,7 +315,7 @@ Here, you will find various Camellia guest appearances. If you see anything miss
 
 ### August
 
-* [びっくりさせたらおこるよ！](<{% link postsInclude/_posts/camellia/songs/Bikkuri-Sasetara-Okoruyo/2024-02-19-Bikkuri-Sasetara-Okoruyo.md %}>) (*from [Free Pl@ying](https://confetto.chu.jp/freeplaying/)*)
+* [びっくりさせたらおこるよ！](<{% link postsInclude/_posts/camellia/songs/Bikkuri-Sasetara-Okoruyo/2024-02-19-Bikkuri-Sasetara-Okoruyo) (*from [Free Pl@ying](https://confetto.chu.jp/freeplaying/)*)
 * [とりぷる x3 ゴキゲン中飛車 ⇒OHTE & DASH!!!](#) (*from [ももいろ Holiday](https://web.archive.org/web/20221211042834/https://www.orc2000.com/spi/holiday/index.html)*)
 * [wanna go to a beach](#) (*from [SUPER SONIC!!](https://web.archive.org/web/20130914033750/http://www.massivecirclez.com/super-sonic.php)*)
 * [landgridding](#) (*from [Driven' De:st-ructure3](https://web.archive.org/web/20130808231842/http://soundave.net/sacd0020_dd3/)*)
@@ -345,12 +345,12 @@ Here, you will find various Camellia guest appearances. If you see anything miss
 
 ### December
 
-* [∞ 度寝](<{% link postsInclude/_posts/camellia/songs/Infinite-Sleep/2024-02-24-Infinite-Sleep.md %}>) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
-* [＼ - Backslash](<{% link postsInclude/_posts/camellia/songs/Backslash/2024-02-24-Backslash.md %}>) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
-* [システマティック・ラヴ](<{% link postsInclude/_posts/camellia/songs/Systematic-Love/2024-02-24-Systematic-Love.md %}>) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
+* [∞ 度寝](<{% link postsInclude/_posts/camellia/songs/Infinite-Sleep/2024-02-24-Infinite-Sleep) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
+* [＼ - Backslash](<{% link postsInclude/_posts/camellia/songs/Backslash/2024-02-24-Backslash) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
+* [システマティック・ラヴ](<{% link postsInclude/_posts/camellia/songs/Systematic-Love/2024-02-24-Systematic-Love) (*from [Party Junkie](https://www.nicovideo.jp/watch/sm19696423)*)
 * [早速ですが SHAKING PINK はインベーダーだったようです](#) (*from [しぇいきんぐ！](https://web.archive.org/web/20231202053100/https://www.orc2000.com/spi/shaking/index.html)*)
 * [ひとりぼっちで眠る LED](#) (*from [月の詩 II - ツキノウタ -](https://www.vocalomakets.com/yukari_CD/002/)*)
-* [Jump Over!生物種](<{% link postsInclude/_posts/camellia/songs/Jump-Over-Seibutsushu/2024-02-19-Jump-Over-Seibutsushu.md %}>) (*from [KEMOLOVE♥](https://confetto.chu.jp/kemolove/)*)
+* [Jump Over!生物種](<{% link postsInclude/_posts/camellia/songs/Jump-Over-Seibutsushu/2024-02-19-Jump-Over-Seibutsushu) (*from [KEMOLOVE♥](https://confetto.chu.jp/kemolove/)*)
 * \[WI[RE/ED] PUZZLE](#) (*from [DOMINATED DANCEHALL](https://web.archive.org/web/20130101063941/http://alst.net/2012/12/22/arcd0039-dominated-dancehall/)*)
 * [See you(Camellia's Farewell Remix)](#) (*from [ShandyBass](https://web.archive.org/web/20160907004051/http://www.voiceblog.jp/kimu25/1849136.html)*)
 * [ふわり、ピンクの恋](#) (*from [Innocent Key the BEST](https://web.archive.org/web/20130630201518/https://innocent-key.com/discog.php?page=24)*)

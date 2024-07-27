@@ -26,4 +26,4 @@ permalink: camellia/discography/:title
 * Length: 04:34
 * BPM: 256(200-2048)
 * Genre: Speedcore
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)

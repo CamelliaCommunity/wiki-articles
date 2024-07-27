@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:29
-* Album Appearances: [sudden shower](<{% link postsInclude/_posts/camellia/albums/sudden-shower/2023-12-05-sudden-shower.md %}>)
+* Album Appearances: [sudden shower](/camellia/albums/sudden-shower)
 
 ## External Links
 

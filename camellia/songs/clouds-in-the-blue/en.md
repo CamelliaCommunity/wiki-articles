@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: かめりあ
 * Length: 04:48
-* Album Appearances: [TF40K(Thanks Twitter Followers 40K) E.P.](<{% link postsInclude/_posts/camellia/albums/TF40KEP/2023-12-20-TF40KEP.md %}>)
+* Album Appearances: [TF40K(Thanks Twitter Followers 40K) E.P.](/camellia/albums/TF40KEP)
 
 ## External Links
 

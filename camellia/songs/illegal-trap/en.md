@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:02
-* Album Appearances: [INVAIDAS FROM DA JUNGLE](<{% link postsInclude/_posts/camellia/albums/INVAIDAS-FROM-DA-JUNGLE/2023-12-20-INVAIDAS-FROM-DA-JUNGLE.md %}>)
+* Album Appearances: [INVAIDAS FROM DA JUNGLE](/camellia/albums/INVAIDAS-FROM-DA-JUNGLE)
 
 ## External Links
 

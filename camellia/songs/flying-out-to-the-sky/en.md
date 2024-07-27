@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら, moimoi, Nana Takahashi
 * Length: 04:26
-* Album Appearances: [すりーぷ！](<{% link postsInclude/_posts/camellia/albums/Sleep/2023-12-18-Sleep.md %}>)
+* Album Appearances: [すりーぷ！](/camellia/albums/Sleep)
 
 ### Flying out to the sky
 
@@ -38,4 +38,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: かめりあ
 * Length: 02:02
-* Album Appearances: [灰の羽搏](<{% link postsInclude/_posts/camellia/albums/4th-major-album/2023-12-21-4th-major-album.md %}>)
+* Album Appearances: [灰の羽搏](/camellia/albums/4th-major-album)

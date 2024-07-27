@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:41
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [りぷれい！](/camellia/albums/Replay)
 
 ## External Links
 

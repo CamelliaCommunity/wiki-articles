@@ -8,7 +8,7 @@ author: TheCodingGuy
 
 ## Some Words
 
-The Camellia Wiki aims to document as much as possible when it comes to Camellia-related content. As such, when adding more to the wiki, it may have incomplete content, including articles. This page contains a list of incomplete articles that must be completed eventually. If you're interested in helping out, check out the [Contributing Guide]({% link postsWiki/_posts/2023-12-11-contributing.md %}).
+The Camellia Wiki aims to document as much as possible when it comes to Camellia-related content. As such, when adding more to the wiki, it may have incomplete content, including articles. This page contains a list of incomplete articles that must be completed eventually. If you're interested in helping out, check out the [Contributing Guide](/wiki/contributing).
 
 ## Incomplete Articles
 

@@ -24,4 +24,4 @@ permalink: camellia/discography/:title
 * Composition: かめりあ & DJ Genki
 * Remix: かめりあ
 * Length: 06:29
-* Album Appearances: [Camellia "Guest Tracks" Summary & VIPs 01](<{% link postsInclude/_posts/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01/2023-12-20-Camellia-Guest-Tracks-Summary-VIPs-01.md %}>)
+* Album Appearances: [Camellia "Guest Tracks" Summary & VIPs 01](/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01)

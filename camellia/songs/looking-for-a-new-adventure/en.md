@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:17
-* Album Appearances: [すりーぷ！](<{% link postsInclude/_posts/camellia/albums/Sleep/2023-12-18-Sleep.md %}>)
+* Album Appearances: [すりーぷ！](/camellia/albums/Sleep)
 
 ### Looking For A New Adventure(The 4th Remix)
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: The 4th
 * Length: 05:12
-* Album Appearances: [ふぉーす！](<{% link postsInclude/_posts/camellia/albums/Force/2023-12-20-Force.md %}>)
+* Album Appearances: [ふぉーす！](/camellia/albums/Force)
 
 ## External Links
 

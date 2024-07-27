@@ -18,7 +18,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Length: 01:50
 * BPM: 192
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)
 * Game Appearances: [SOUND VOLTEX II -infinite infection-](https://remywiki.com/AC_SDVX_II) and [pop'n music Sunny Park](https://remywiki.com/AC_pnm_Sunny_Park)
 
 ### ませまてぃっく♥ま+ま=まじっく！(L×o÷n＝g♥V±e∽r!)
@@ -29,4 +29,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 03:52
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)

@@ -19,7 +19,7 @@ permalink: camellia/discography/:title
 * Guitar: つこ
 * Bass: つこ
 * Length: 04:35
-* Album Appearances: [すりーぷ！](<{% link postsInclude/_posts/camellia/albums/Sleep/2023-12-18-Sleep.md %}>)
+* Album Appearances: [すりーぷ！](/camellia/albums/Sleep)
 
 ## External Links
 

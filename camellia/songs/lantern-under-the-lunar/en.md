@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:52
-* Album Appearances: [りぷれい！](<{% link postsInclude/_posts/camellia/albums/Replay/2023-12-12-Replay.md %}>)
+* Album Appearances: [りぷれい！](/camellia/albums/Replay)
 
 ### 月燈籠 (Lite Show Magic Remix)
 
@@ -28,7 +28,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: Lite Show Magic Remix
 * Length: 04:04
-* Album Appearances: [ふぉーす！](<{% link postsInclude/_posts/camellia/albums/Force/2023-12-20-Force.md %}>)
+* Album Appearances: [ふぉーす！](/camellia/albums/Force)
 
 ## External Links
 

@@ -8,7 +8,7 @@ author: papertek
 
 This is the About page for the Camellia Wiki, where we will tell you about stuff. Wiki Stuff. Cool right?
 
-This Wiki is designed with modularity in mind, as with every other Wiki out there. I tried to keep things simple so the average user could contribute and write documents themselves and know where things go. Most information about contributing and our guidelines can be found in the [Contributing]({% link postsWiki/_posts/2023-12-11-contributing.md %}) article.
+This Wiki is designed with modularity in mind, as with every other Wiki out there. I tried to keep things simple so the average user could contribute and write documents themselves and know where things go. Most information about contributing and our guidelines can be found in the [Contributing](/wiki/contributing) article.
 
 Any further questions? Speak to us in the [Wiki](https://discord.com/channels/435720333786480641/1174624963584610334) Channel in the [Discord](https://discord.gg/camellia)!
 

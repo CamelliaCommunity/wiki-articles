@@ -41,7 +41,7 @@ permalink: camellia/discography/:title
 * Length: 04:33
 * BPM: 179
 * Genre: A-STYLE DRUMSTEP
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)
 
 ### べィスドロップ・フリークス
 
@@ -51,4 +51,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: かめりあ
 * Length: 02:07
-* Album Appearances: [灰の羽搏](<{% link postsInclude/_posts/camellia/albums/4th-major-album/2023-12-21-4th-major-album.md %}>)
+* Album Appearances: [灰の羽搏](/camellia/albums/4th-major-album)

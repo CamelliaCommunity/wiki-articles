@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Length: 04:15
 * BPM: 190
 * Genre: Hardcore / Basscore
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)

@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 03:35
-* Album Appearances: [heart of android](<{% link postsInclude/_posts/camellia/albums/heart-of-android/2023-12-21-heart-of-android.md %}>)
+* Album Appearances: [heart of android](/camellia/albums/heart-of-android)
 
 ## External Links
 

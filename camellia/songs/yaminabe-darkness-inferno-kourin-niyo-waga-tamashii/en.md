@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:49
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)
 
 ## External Links
 

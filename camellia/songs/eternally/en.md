@@ -15,4 +15,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:58
-* Album Appearances: [Thrill Purple](http://djgenki.net/gecd017/) and [Camellia "Guest Tracks" Summary & VIPs 01](<{% link postsInclude/_posts/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01/2023-12-20-Camellia-Guest-Tracks-Summary-VIPs-01.md %}>)
+* Album Appearances: [Thrill Purple](http://djgenki.net/gecd017/) and [Camellia "Guest Tracks" Summary & VIPs 01](/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01)

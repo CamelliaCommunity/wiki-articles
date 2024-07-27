@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 06:03
-* Album Appearances: [Cyphisonia E.P.](<{% link postsInclude/_posts/camellia/albums/Cyphisonia/2023-12-18-Cyphisonia.md %}>)
+* Album Appearances: [Cyphisonia E.P.](/camellia/albums/Cyphisonia)
 
 ## External Links
 

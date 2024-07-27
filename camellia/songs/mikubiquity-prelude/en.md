@@ -15,4 +15,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 01:44
-* Album Appearances: [mikUbiquity](<{% link postsInclude/_posts/camellia/albums/mikUbiquity/2023-12-06-mikUbiquity.md %}>)
+* Album Appearances: [mikUbiquity](/camellia/albums/mikUbiquity)

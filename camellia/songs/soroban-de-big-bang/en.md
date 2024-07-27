@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら、ココ
 * Length: 04:06
-* Album Appearances: [LOP STEP RABBITS!](<{% link postsInclude/_posts/camellia/albums/LOP-STEP-RABBITS!/2023-12-06-LOP-STEP-RABBITS!.md %}>)
+* Album Appearances: [LOP STEP RABBITS!](/camellia/albums/LOP-STEP-RABBITS!)
 
 ## External Links
 

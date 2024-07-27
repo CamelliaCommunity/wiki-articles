@@ -18,7 +18,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Length: 05:16 / 01:52 (Game ver.)
 * BPM: 72-145
-* Album Appearances: [EDM Extreme](http://edm-extreme.com/) and [MEGANTO METEOR](<{% link postsInclude/_posts/camellia/albums/MEGANTO-METEOR/2023-12-21-MEGANTO-METEOR.md %}>)
+* Album Appearances: [EDM Extreme](http://edm-extreme.com/) and [MEGANTO METEOR](/camellia/albums/MEGANTO-METEOR)
 * Game Appearances: [jubeat plus](https://remywiki.com/CS_jb_plus) and [REFLEC BEAT plus](https://remywiki.com/CS_RB_plus)
 
 ### イーディーエム・ジャンパーズ ({E+H}DM Reboot)
@@ -30,4 +30,4 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Remix: かめりあ
 * Length: 05:13
-* Album Appearances: [Camellia "Guest Tracks" Summary & VIPs 01](<{% link postsInclude/_posts/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01/2023-12-20-Camellia-Guest-Tracks-Summary-VIPs-01.md %}>)
+* Album Appearances: [Camellia "Guest Tracks" Summary & VIPs 01](/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01)

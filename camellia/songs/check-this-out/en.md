@@ -15,4 +15,4 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:38
-* Album Appearances: [Raise Blaze in Fiction](https://web.archive.org/web/20141227130810/http://movementonthefloor.net/motf0003/) and [Camellia "Guest Tracks" Summary & VIPs 01](<{% link postsInclude/_posts/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01/2023-12-20-Camellia-Guest-Tracks-Summary-VIPs-01.md %}>)
+* Album Appearances: [Raise Blaze in Fiction](https://web.archive.org/web/20141227130810/http://movementonthefloor.net/motf0003/) and [Camellia "Guest Tracks" Summary & VIPs 01](/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01)

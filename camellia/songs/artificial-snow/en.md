@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:26
-* Album Appearances: [crystallized](<{% link postsInclude/_posts/camellia/albums/crystallized/2023-12-12-crystallized.md %}>)
+* Album Appearances: [crystallized](/camellia/albums/crystallized)
 
 ## External Links
 

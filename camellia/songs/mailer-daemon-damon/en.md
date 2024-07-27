@@ -17,7 +17,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 04:21
-* Album Appearances: [ばーさす！](<{% link postsInclude/_posts/camellia/albums/Versus/2023-12-06-Versus.md %}>)
+* Album Appearances: [ばーさす！](/camellia/albums/Versus)
 
 ## External Links
 

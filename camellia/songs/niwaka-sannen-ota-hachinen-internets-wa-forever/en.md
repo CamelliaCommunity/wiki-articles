@@ -26,7 +26,7 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 05:07
-* Album Appearances: [すりーぷ！](<{% link postsInclude/_posts/camellia/albums/Sleep/2023-12-18-Sleep.md %}>)
+* Album Appearances: [すりーぷ！](/camellia/albums/Sleep)
 
 ## External Links
 

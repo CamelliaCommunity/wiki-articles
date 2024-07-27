@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 04:50
-* Album Appearances: [dreamless wanderer](<{% link postsInclude/_posts/camellia/albums/dreamless-wanderer/2023-12-05-dreamless-wanderer.md %}>)
+* Album Appearances: [dreamless wanderer](/camellia/albums/dreamless-wanderer)
 
 ## External Links
 

@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Length: 05:30
 * BPM: 204-84-204
 * Genre: 200step / Hardcore
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)

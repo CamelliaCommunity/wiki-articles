@@ -19,4 +19,4 @@ permalink: camellia/discography/:title
 * Length: 04:49
 * BPM: 150
 * Genre: DEMPA RAWSTYLE
-* Album Appearances: [GALAXY BURST](<{% link postsInclude/_posts/camellia/albums/GALAXY-BURST/2023-12-21-GALAXY-BURST.md %}>)
+* Album Appearances: [GALAXY BURST](/camellia/albums/GALAXY-BURST)

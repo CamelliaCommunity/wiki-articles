@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: 初音ミク
 * Length: 04:34
-* Album Appearances: [Circle Jerk Galactic](https://www.nicovideo.jp/watch/sm22516063) and [Camellia "Guest Tracks" Summary & VIPs 01](<{% link postsInclude/_posts/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01/2023-12-20-Camellia-Guest-Tracks-Summary-VIPs-01.md %}>)
+* Album Appearances: [Circle Jerk Galactic](https://www.nicovideo.jp/watch/sm22516063) and [Camellia "Guest Tracks" Summary & VIPs 01](/camellia/albums/Camellia-Guest-Tracks-Summary-VIPs-01)

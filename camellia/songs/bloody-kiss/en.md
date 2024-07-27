@@ -15,7 +15,7 @@ permalink: camellia/discography/:title
 
 * Composition: かめりあ
 * Length: 03:38
-* Album Appearances: [THX30KFOLLOWERS](<{% link postsInclude/_posts/camellia/albums/THX30KFOLLOWERS/2024-02-22-THX30KFOLLOWERS.md %}>)
+* Album Appearances: [THX30KFOLLOWERS](/camellia/albums/THX30KFOLLOWERS/2024-02-22-THX30KFOLLOWERS)
 
 ## External Links
 

@@ -18,7 +18,7 @@ permalink: camellia/discography/:title
 * Vocals: ななひら
 * Length: 02:06
 * BPM: 32-259
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)
 * Game Appearances: [SOUND VOLTEX III GRAVITY WARS](https://remywiki.com/AC_SDVX_III) and [pop'n music éclale](https://remywiki.com/AC_pnm_eclale)
 
 ### 混乱少女♥そふらんちゃん!! (ノリニクシティ・アンリミテッド☆プログレッシヴ・ポリリズミック・ナイトメア・ロングバージョン)
@@ -29,4 +29,4 @@ permalink: camellia/discography/:title
 * Lyrics: かめりあ
 * Vocals: ななひら
 * Length: 09:07
-* Album Appearances: [ごーいん！](<{% link postsInclude/_posts/camellia/albums/Goin/2023-12-21-Goin.md %}>)
+* Album Appearances: [ごーいん！](/camellia/albums/Goin)

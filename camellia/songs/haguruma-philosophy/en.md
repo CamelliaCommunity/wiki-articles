@@ -17,4 +17,4 @@ permalink: camellia/discography/:title
 * Lyrics: 佐藤
 * Vocals: 初音ミク
 * Length: 04:35
-* Album Appearances: [Michno-sequence](<{% link postsInclude/_posts/camellia/albums/Michno-sequence/2023-12-06-Michno-sequence.md %}>)
+* Album Appearances: [Michno-sequence](/camellia/albums/Michno-sequence)
