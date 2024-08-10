@@ -13,7 +13,7 @@ include: Incomplete Pages
 
 You want to help with this site and contribute? That's awesome! Let's get started with some basics.
 
-Our standards remain the same or similar when you read the announcements section of the [Staff Guidelines]({% link staffGuidelines.md %}). To point things out, the important parts of the Staff Guidelines will be listed here and adjusted for ease of use.
+Our standards remain the same or similar when you read the announcements section of the [Staff Guidelines](/community/server/staff/guidelines). To point things out, the important parts of the Staff Guidelines will be listed here and adjusted for ease of use.
 
 ### Tone of Delivery
 

@@ -6,7 +6,7 @@ author: Camellia Server Staff. These guidelines were last updated on 6/15/24
 
 ## A Brief History
 
-> Go to the [Server Constitution](/camelliaConstitution.html).
+> Go to the [Server Constitution](/community/server/constitution).
 
 *The Staff Guidelines were implemented for a general view of
 guidance, advice, and quality assurance. Parts One and Two of these
