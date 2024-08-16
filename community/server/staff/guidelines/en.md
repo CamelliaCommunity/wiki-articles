@@ -1,8 +1,11 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff. These guidelines were last updated on 6/15/24
+author: Camellia Server Staff
 ---
+
+> The Staff Guidelines were last updated on June 15th, 2024.
+{: .tip }
 
 ## A Brief History
 
