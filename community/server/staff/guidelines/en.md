@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Staff Guidelines
-author: Camellia Server Staff
+date: 2023-7-24 08:23 -0600
+author: Theaceae Community
 ---
 
 > The Staff Guidelines were last updated on June 15th, 2024.

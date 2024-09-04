@@ -3,7 +3,7 @@ layout: article
 title: Constitution
 date: 2024-03-09 02:37 -0600
 category: pages
-author: Camellia Server Staff
+author: Theaceae Community
 ---
 ## Preamble
 
@@ -65,49 +65,49 @@ The server's hierarchy is broken into six major roles;
 
 ### The Eight Rules
 
-#### **1.** Toxicity is not allowed (don't be a dick).
+#### **1.** Toxicity is not allowed (don't be a dick)
 
 - This server is going to have a mixture of communities from all over the place (SDVX, IIDX, osu!, GD, etc.). Saying stuff like "osu! is a garbage game IIDX is better" will get you warned. We do not need this kind of elitism on this server. Everyone is equal. Harassment with malicious intent will not be tolerated.
 - We don't allow mini-modding. A helpful hand is always okay but do not try to handle staff-related situations yourself!
 - Be good to your peers and create a friendly community for all. Embrace your fellow Camellians!
 
-#### **2.** Hate speech, hateful acts, and excessive harassment are not welcomed.
+#### **2.** Hate speech, hateful acts, and excessive harassment are not welcomed
 
 - Racism, homophobia, and bigotry fall within discrimination/harassment and are not allowed in any content posted.
 - Loopholes around slur usage, such as nibba, etc.; is not welcomed. Other terms/memes to attack groups are not permitted as well.
 - Bigoted profiles with iconography, bigoted nicknames, or bios are not welcomed.
 - For raids, we will report any accounts involved directly to Discord. For witch hunting, all associated members involved will be banned from this server and possibly banned from neighboring servers.
 
-#### **3.** NSFW/NSFL content is not allowed (porn, gore, etc.).
+#### **3.** NSFW/NSFL content is not allowed (porn, gore, etc.)
 
 - This server does not need an 18+ channel for the sake of having one.
 - Please consult a staff member if you have questions about whether something is allowed.
 
-#### **4.** Use channels correctly and keep discussion in English.
+#### **4.** Use channels correctly and keep discussion in English
 
 - Sensitive or controversial topics such as religion, politics, and mental triggers belong in [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265) (accessible to level 10 users and up).
 - If a serious topic turns into a thought-provoking topic outside of [#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265), Camellians are required to move to ⁠[#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265).
 - The majority of the people here speak English. If you want to speak another language, locate the correct language channels.
 
-#### **5.** No spamming or advertising.
+#### **5.** No spamming or advertising
 
 - For spam, this includes ALL spam. (Text spam, Soundboard spam, Mic spam, etc.)
 - We also have a way of quarantining bots. Do not click the X when onboarding or in DAW roles.
 - Do not advertise in DMs, and do not post other Discords. If you want to advertise your original work, you could do so in best-fitting channels. For music, read the disclaimers below.
 - Posting your AutoMod punishments is also not allowed.
 
-#### **6.** Avoid unhinged/obsessive discussions about artists or celebrities.
+#### **6.** Avoid unhinged/obsessive discussions about artists or celebrities
 
 - Please be respectful when talking about artists and celebrities. They're humans, too! Impersonation is also not allowed. Doing this will result in a ban.
 - This includes pinging Camellia or any verified members without reason. Pinging them excessively/obnoxiously in an attempt to get their attention will result in punishment.
 - Do not insert Camellia's (real) face in your avatar (per his request; please respect it).
 
-#### **7.** AI "art" is not allowed.
+#### **7.** AI "art" is not allowed
 
 - Posting AI "art" will result in deletion. Continuous infractions will result in warnings!
 - It is also discouraged to post any AI content in general unless you're really clever with humor.
 
-#### **8.** Do not distribute pirated content.
+#### **8.** Do not distribute pirated content
 
 - This includes Bemani games, albums and soforth.
 - Distributing arcade data is also not allowed.
