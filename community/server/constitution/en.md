@@ -7,7 +7,7 @@ author: Theaceae Community
 ---
 ## Preamble
 
-> Go to the [Staff Guidelines](/community/server/staff/guidelines).
+> Go to the [Staff Guidelines](/community/server/guidelines).
 
 We, the people (Camellians) of the Camellia Discord (The Garden), come together and bond to create a better, easy-to-understand document of regulations and rules. Organized to promote equality and inclusivity and secure the Camellia Discord from any threat, inside and out. Her sovereignty is based on the rights of Camellia himself and the janitors, whose weight keeps pressing harder (Staff Members). Together, the team will control the server and push out punishment and rewards for people of the server.
 
