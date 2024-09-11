@@ -10,21 +10,16 @@ include: Terms of Service, Privacy Policy
 
 ## Introduction
 
-> This page is a work in progress. If you’re a contributor, please update this page to current standards!
-> {: .caution }
-
-Like any other service, we have begun implementing services that require some ground rules and the processing of some personal and non-personal user data.
+Like any other service, we have begun implementing services that require some ground rules and the processing of personal and non-personal user data.
 
 ## Terms of Service
 
-In our Terms of Service, we outline and describe some rules governing the use of the Camellia Wiki.
+In our Terms of Service, we outline and describe some Camellia Wiki rules.
 
 [Read the Terms of Service](/legal/terms)
-{: .buttonDefault .centerItem }
 
 ## Privacy Policy
 
-In our Privacy Policy, we outline and describe outlines what information we collect, use, and disclose.
+Our Privacy Policy outlines and describes what information we collect, use, and disclose.
 
 [Read the Privacy Policy](/legal/privacy)
-{: .buttonDefault .centerItem }
