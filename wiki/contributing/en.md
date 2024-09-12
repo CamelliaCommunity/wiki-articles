@@ -9,6 +9,9 @@ description: Read this to figure out how to contribute. Includes directions,
 include: Incomplete Pages
 ---
 
+> This page is outdated for the new wiki (alpha.camellia.wiki). Please only create a branch from a beta branch and then make a PR. Articles are in their own separate repository.
+{: .danger }
+
 ## Our Standards
 
 You want to help with this site and contribute? That's awesome! Let's get started with some basics.
