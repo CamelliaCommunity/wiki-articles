@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Camellia Server
+title: Camellia Discord Server
 date: 2023-12-11 05:49 -0600
 category: pages
 author: Various Contributors
-description: Information about the ever changing Camellia Server.
+description: Information about the ever changing Camellia Discord Server.
 include: Camellia Monthly, Meetings
 ---
 ## Introduction
