@@ -3,26 +3,26 @@ layout: article
 title: Privacy Policy
 date: 2024-01-27T10:50:00.000Z
 category: pages
-author: Camellia Server Staff
+author: Theaceae Community
 description: The document that outlines what information we collect, use, and disclose.
 ---
 
 ## Privacy Policy
 
-> The Privacy Policy was last updated on February 3rd, 2024.
+> The Privacy Policy was last updated on September 15th, 2024.
 >
-> TL;DR: We only collect Discord IDs, timestamps, and comments.
+> TL;DR: We only collect IP Addresses, Discord IDs, timestamps, and comments.
 {: .tip }
 
 Welcome to the Camellia Wiki! We value your privacy and are committed to protecting your personal information. This document outlines what we collect, how we use, and what information we disclose you provide through flowertek and the Camellia Wiki Comments (hereinafter "our services").
 
 ### 1. What We Collect
 
-When submitting a comment, we will collect personal and non-personal identifiable information. For example, we will collect the following personal information: Discord User IDs. The non-personal information we collect is comments (for instance, timestamps and post content).
+When first accessing any articles within the Camellia Wiki, your IP Address will be collected and stored. When submitting a comment, we will collect personal and non-personal identifiable information. For example, we will collect the following personal information: Discord User IDs. The non-personal information we collect for comments are the timestamps and post content.
 
 ### 2. How We Use Your Information
 
-The information you provide to us will be publicly displayed to all users of the Camellia Wiki. However, when displaying the data provided to our services, the Discord UserID will be converted to the Discord username.
+The information you provide to us will be publicly displayed to all users of the Camellia Wiki, unless otherwise stated. The only exception is IP Addressess as we never share this information publicly as they are only collected and used solely to uniquely display the amount of visitors accessing the Camellia Wiki (the "Unique Visitors" counter on the homepage).
 
 ### 3. How We Protect Your Information
 
@@ -34,7 +34,7 @@ We take the protection of your information seriously and employ various security
 
 ### 4. Data Retention
 
-We will retain all provided data unless it is removed at your request or through moderation. After processing a deletion request, all data, apart from the Comment ID, will be promptly erased unless otherwise. If a comment needs to be removed for moderation reasons, we may retain the comment data briefly for investigative and moderation purposes. Users accessing the services after the deletion, regardless of why it was removed, will only encounter the 'Comment was deleted' message, with the Comment ID being the remaining identifier.
+We will retain all provided data unless it is removed at your request or through moderation. After processing a Comment deletion request, all data, apart from the Comment ID, will be promptly erased unless otherwise. If a comment needs to be removed for moderation reasons, we may retain the comment data briefly for investigative and moderation purposes. Users accessing the services after the deletion, regardless of why it was removed, will only encounter the 'Comment was deleted' message, with the Comment ID being the remaining identifier.
 
 ### 5. Your Rights
 
