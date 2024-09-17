@@ -35,7 +35,7 @@ Let's elaborate on the reasons provided. Adobe offers a program called Adobe Cre
 ![Adobe Prices](https://cdn.camellia.wiki/images/blogs/theydidntbuy/shitprice.png)
 
 > You can view some other guy getting angry [in this other blog](https://davidthetornado.com/why-adobes-creative-cloud-is-fucking-shit/). It's really funny to read!
-{: .tip}
+{: .tip }
 
 Who knows what they would've done with Figma's accessible modal? There was also a lot of concern about whether Figma would be put into the Creative Cloud and only accessible there. Some people use Figma to escape Adobe products precisely. Adobe DOMINATES the entire creative industry, so understanding them is pretty straightforward. It's also important to note that if the merger *did* happen, it would've been a significant step back for the industry as innovation would be harder to come by (despite my belief that every product should do something awesome in the first place).
 
