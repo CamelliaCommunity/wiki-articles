@@ -31,7 +31,7 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - As Camellia is busy with other duties such as making music and eating chicken, he is mostly hands-off with daily operations. He leaves daily operations at the responsibility of the staff team. His role has unlimited power, he is god.
 
-**Admin** - Members of this role are expected to organize and lead the server, uphold this constitution and the staff guidelines, and use force if necessary to keep peace within all the servers (by force, we mean warnings, mutes, kicks, and bans). They also manage the staff team and rovide staff members with quality reports if necessary. These quality reports include direct messaging a staff member with a bot and providing information on any disciplinary action or concern.
+**Admin** - Members of this role are expected to organize and lead the server, uphold this constitution and the staff guidelines, and use force if necessary to keep peace within all the servers (by force, we mean warnings, mutes, kicks, and bans). They also manage the staff team and provide staff members with quality reports if necessary. These quality reports include direct messaging a staff member with a bot and providing information on any disciplinary action or concern.
 
 **Elder Mod** - This role is given to trusted Moderators who have been part of the staff team for a long time. As veterans, they have the opportunity to work closer with Admins (as well as be committed and set an example for all Moderators). They also honor this document and the guidelines that are being enforced within the staff team.
 
