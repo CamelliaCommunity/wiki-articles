@@ -31,7 +31,7 @@ The server's hierarchy is broken into six major roles;
 
 **Camellia** - As Camellia is busy with other duties such as making music and eating chicken, he is mostly hands-off with daily operations. He leaves daily operations at the responsibility of the staff team. His role has unlimited power, he is god.
 
-**Admin** - Members of this role are expected to organize and lead the server, uphold this constitution and the staff guidelines, and use force if necessary to keep peace within all the servers (by force, we mean warnings, mutes, kicks, and bans). They also manage the staff team and provide staff members with quality reports if necessary. These quality reports include direct messaging a staff member with a bot and providing information on any disciplinary action or concern.
+**Admin** - Members of this role are expected to organize and lead the server, uphold this constitution and the staff guidelines, and use force if necessary to keep peace within all the servers (by force, we mean warnings, mutes, kicks, and bans). They also manage the staff team and rovide staff members with quality reports if necessary. These quality reports include direct messaging a staff member with a bot and providing information on any disciplinary action or concern.
 
 **Elder Mod** - This role is given to trusted Moderators who have been part of the staff team for a long time. As veterans, they have the opportunity to work closer with Admins (as well as be committed and set an example for all Moderators). They also honor this document and the guidelines that are being enforced within the staff team.
 
@@ -61,7 +61,11 @@ The server's hierarchy is broken into six major roles;
 
 **Ko-Fi Donator** - With all of its perks, this role is similar to Nitro Boosters, but the user will also have access to soundboard usage and free colored album roles, as well as a private channel.
 
-## Part 2: Rules for the Server
+## Part 2: Democratic Discussion System
+
+blah blah
+
+## Part 3: Rules for the Server
 
 ### The Eight Rules
 
@@ -117,11 +121,11 @@ The server's hierarchy is broken into six major roles;
 
 We expect members to respect each other and the staff team. We also have minors in the community, so sexual discussions and degeneracy should be kept to a minimum. Remember to follow [Discord's TOS](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines). The higher your role is (including levels), the more we expect from you. If a rule is broken, we ask you to act on it and notify the staff team instead of escalating.
 
-## Part 3: Expectations of Conduct from Staff Members
+## Part 4: Expectations of Conduct from Staff Members
 
-The staff team's role is to uphold the server rules and keep peace within the server. Moderators and up have full powers to mute, kick, ban, and warn and will utilize these permissions as needed. Staff members must also follow the [Staff Guidelines](/community/server/staff/guidelines). *All* staff members will be biased towards some members because this is part of being in a community. However, bias will be ignored once we discuss actions necessary to uphold this constitution. A staff member's decision is final and can only be overturned by appealing or submitting an Admin Ticket for in-depth discussion.
+The staff team's role is to uphold the server rules and keep peace within the server. Moderators and up have full powers to mute, kick, ban, and warn and will utilize these permissions as needed. Staff members must also follow the [Staff Guidelines](/community/server/guidelines). *All* staff members will be biased towards some members because this is part of being in a community. However, bias will be ignored once we discuss actions necessary to uphold this constitution. A staff member's decision is final and can only be overturned by appealing or submitting an Admin Ticket for in-depth discussion.
 
-## Part 4: Communicating with the Discord Mod
+## Part 5: Communicating with the Discord Mod
 
 Pinging staff members individually or as a group is allowed. However, if a staff member states in their profile or in the chat not to direct message or tag them, their request must be respected or else punishment will be given.
 
@@ -131,9 +135,9 @@ If you see someone breaking the rules, being a nuisance, or being weird, don't b
 
 Direct messaging Camellia is strongly discouraged as he is a very busy person. Message him with caution as his own words say: "In the worst case I would block you without any warning". Please review the rest of this Wiki for questions you may have regarding Camellia to avoid DMs.
 
-## Part 5: Banishment system
+## Part 6: Banishment system
 
-With each case given to us, we must follow the [Staff Guidelines'](/community/server/staff/guidelines) way of handling most situations. For bans, moderators may discuss internally, but they aren't obligated to.
+With each case given to us, we must follow the [Staff Guidelines'](/community/server/guidelines) way of handling most situations. For bans, moderators may discuss internally, but they aren't obligated to.
 
 Some transgressions against the Rules will result in a ban, some may experience a kick or a mute, and we will generally not divulge details about moderator actions unless an Admin grants permission (or an Admin willingly shares this information).
 
