@@ -28,9 +28,18 @@ Camellia has his fair share of collaborations. He's collaborated with several [V
 
 * He can play the piano, guitar, and bass proficiently.
 * The longest video on his YouTube Channel is his [100K subscribers special mix](https://youtu.be/RhrJ9-mir64?si=pOwFieqLnF1aWcxX) video, sitting at 2 hours, 19 minutes, and 52 seconds, followed by his [U.U.F.O. album release stream](https://youtu.be/uAIlcHPn5Qc?si=8S5RwiDbQ1ijcDY2), sitting at 2 hours, 8 minutes, and 51 seconds.
-* His [U.U.F.O.](https://camellia.wiki/camellia/discography/UUFO) album possesses the most songs compared to any of his other albums, with 22 tracks and 5 bonus tracks.
+* His [U.U.F.O.](https://camellia.wiki/camellia/discography/UUFO) album possesses the most songs compared to any of his other albums, with 22 tracks and five bonus tracks.
 
-## External Links
+## Other Links
+
+### Wiki Links
+
+* [Albums](camellia/albums)
+* [Songs](camellia/songs)
+* [Guest Appearances](camellia/guest-appearances)
+* [Featured Games](camellia/featured-games)
+* [Song Use](camellia/song-use)
+* [FAQ](camellia/faq)
 
 ### Socials
 
