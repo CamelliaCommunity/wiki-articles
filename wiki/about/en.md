@@ -2,8 +2,8 @@
 layout: post
 title: About
 author: The Theaceae Collective
-description: Information about the wiki.
-date: 2024-10-02T16:33:25.118Z
+description: Information about the wiki
+date: 2023-12-12 04:31 -0600
 ---
 
 ## Welcome to the (New) Camellia Wiki (The Rewrite)
@@ -50,6 +50,6 @@ I, papertek, am the lead of this project. Am I good at it? Not sure! But things 
 
 To put it simply and bluntly, coolness. Doing this is fun and has been a learning experience for me personally, and I'm all up for it. If you would like to contribute some articles or code, we are not stopping you :).
 
-[Visit the frontend repository](https://github.com/CamelliaCommunity/Wiki)
+[Visit the frontend repository](https://github.com/CamelliaCommunity/wiki-frontend)
 
 [Visit the article repository](https://github.com/CamelliaCommunity/wiki-articles)
