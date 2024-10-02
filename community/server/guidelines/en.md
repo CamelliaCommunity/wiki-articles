@@ -41,18 +41,27 @@ Any significant instance of drama, discussion, and feedback is considered when w
 
 > A reminder that anything said in the staff chats is to be kept in the staff chats unless stated otherwise by an Admin. Failure to do so will lead to demotion.
 {: .caution }
-> All staff must engage with server members, contribute, or document activities to help maintain a healthy community.
+
+### Code of Conduct
+
+> Contact another staff member if you're feeling burnt out and/or you need help with moderating. The staff team looks for consistent contribution, not overloaded.
 {: .disclaimer }
 
-### The Vow of Thought
+#### DO
 
-The idea social hierarchy should not be of any significance. The staff team is expected to act as normal members and refrain from giving themselves the benefit over the common member but rather connect with them to establish common values. The goal is not to establish equality but to establish the idea of the common "Camellian," in which they all have the same thoughts of liberty, fairness, and professionalism. Do not disregard authority but instead treat yourself as an ordinary member.
+1. Try to be nice. This place is supposed to welcome everyone regardless of who they are and their worldview.
+1. Be open to the idea of leniency. We strive to support free speech, regardless of background, to discuss our thoughts.
+1. Engage with server members, contribute, or document activities to help maintain a healthy community.
+1. Give and accept constructive criticism.
+1. Be cool. (Be cool!)
 
-A staff member must be open to the idea of leniency as we shall strive to support free speech regardless of background to discuss our thoughts. This is so we are presented with different ideas. This does not mean endorsing the ideas of prejudice and immorality but being mindful that worldviews differ for each individual. It will allow us to educate individuals who may establish themselves as ignorant. We should stay curious and provide the education needed for any topic discussed or be educated when presented with unknowingness or uncertainty. We must have a curious mind for learning because we don’t want to be ignorant of our decisions. If someone were to be punished or scrutinized for something unclear, we would not use gossip, accusations, or different platforms to validate our choices. Instead, we should know most about a situation to balance objective and emotional thought without endorsing buildup.
+#### DON'T
 
-We are expected to be rational and thoughtful staff members who show compassion and understanding rather than thinking, "Rules are rules, so we are here to follow them." This doesn't mean disregarding order but being mindful of how we act when punishing those deserving. We favor confrontation and communication instead of building up our issues personally or within a group. We should not be afraid of voicing our thoughts to someone scrutinizing us, as there will be no improvement if no concerns are made clear to the perpetrator. Snarky, negative comments shall be prohibited outside of the staff channels and kept to oneself unless this negativity is constructive, objective, or banter.
-
-We must be open to trying foreign ideas for continuous improvement. The average member providing odd ideas could sometimes be called "unpopular" or "irrelevant." While opposition is met with these odd ideas, staff members should think curiously when approaching them. Experimentation with approaches may be considered for the progression of the community, as these experiments can be seen as Discord's experiments. For the sake of improvement and a creative mind, we shall experiment with what we have and develop something unique to benefit the members. Members will get frustrated with change regardless, as seen during the server overhaul in 2022. However, this is opposed since progression can help the average member. Feedback is also given through experimentation and should be appreciated.
+1. Be an arbitrary person or make arbitrary decisions; doing this is unfair and isn't teamwork.
+1. Be arrogant and brown-nosing. This makes you look stupid. Remind yourself that we are all one!
+1. Personally attack or harass other members and peers.
+1. Be stupid.
+1. Kill people.
 
 ### For New Staff
 
@@ -62,22 +71,15 @@ We must be open to trying foreign ideas for continuous improvement. The average 
 - Understand the server rules. Going back to look at them won't hurt!
 - We strive for continuous improvement. Regularly evaluate and enhance community processes for efficiency. Provide constructive feedback to peers for personal and team growth.
 
-### Behavioral Guidelines
+### Vow of Thought
 
-> Contact another staff member if you're feeling burnt out and/or you need help with moderating. The staff team looks for consistent contribution, not overloaded.
-{: .disclaimer }
+The idea social hierarchy should not be of any significance. The staff team is expected to act as normal members and refrain from giving themselves the benefit over the common member but rather connect with them to establish common values. The goal is not to establish equality but to establish the idea of the common "Camellian," in which they all have the same thoughts of liberty, fairness, and professionalism. Do not disregard authority but instead treat yourself as an ordinary member.
 
-1. Try to be nice. This place is supposed to welcome everyone regardless of who they are and their worldview.
-1. Be open to the idea of leniency. We strive to support free speech, regardless of background, to discuss our thoughts.
-1. Encourage discussion to be engaged in an open-minded manner. Take a step back from personal beliefs and opinions and argue reasonably.
-1. Try not to be an arbitrary person or make arbitrary decisions in a situation; doing this is unfair.
-1. Try not to be arrogant and avoid brown-nosing. This makes you look stupid and does not fall within the standard of the staff team. Remind yourself that we are all one!
-1. You are expected to be mindful of advice from peers. If you make a mistake, don't regret it. Take accountability and learn from it.
-1. Political/religious talk is not allowed on the main channels. This server has many people with differing opinions. If anyone
-is talking about political situations, redirect them to
-[#serious-discussion](https://discord.com/channels/435720333786480641/1080971258272948265). If anyone is hateful toward a marginalized group,
-please use the FAQ commands on bigotry (?bigot) or punish them accordingly.
-1. You are expected to be cool. (Be cool!)
+A staff member must be open to the idea of leniency as we shall strive to support free speech regardless of background to discuss our thoughts. This is so we are presented with different ideas. This does not mean endorsing the ideas of prejudice and immorality but being mindful that worldviews differ for each individual. It will allow us to educate individuals who may establish themselves as ignorant. We should stay curious and provide the education needed for any topic discussed or be educated when presented with unknowingness or uncertainty. We must have a curious mind for learning because we don’t want to be ignorant of our decisions. If someone were to be punished or scrutinized for something unclear, we would not use gossip, accusations, or different platforms to validate our choices. Instead, we should know most about a situation to balance objective and emotional thought without endorsing buildup.
+
+We are expected to be rational and thoughtful staff members who show compassion and understanding rather than thinking, "Rules are rules, so we are here to follow them." This doesn't mean disregarding order but being mindful of how we act when punishing those deserving. We favor confrontation and communication instead of building up our issues personally or within a group. We should not be afraid of voicing our thoughts to someone scrutinizing us, as there will be no improvement if no concerns are made clear to the perpetrator. Snarky, negative comments shall be prohibited outside of the staff channels and kept to oneself unless this negativity is constructive, objective, or banter.
+
+We must be open to trying foreign ideas for continuous improvement. The average member providing odd ideas could sometimes be called "unpopular" or "irrelevant." While opposition is met with these odd ideas, staff members should think curiously when approaching them. Experimentation with approaches may be considered for the progression of the community, as these experiments can be seen as Discord's experiments. For the sake of improvement and a creative mind, we shall experiment with what we have and develop something unique to benefit the members. Members will get frustrated with change regardless, as seen during the server overhaul in 2022. However, this is opposed since progression can help the average member. Feedback is also given through experimentation and should be appreciated.
 
 ## Guidance of Order
 
