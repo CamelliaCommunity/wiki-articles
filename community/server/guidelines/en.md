@@ -2,7 +2,7 @@
 layout: article
 title: Staff Guidelines
 date: 2023-7-24 08:23 -0600
-author: Theaceae Community
+author: The Theaceae Collective
 ---
 
 > The Staff Guidelines were last updated on June 15th, 2024.
