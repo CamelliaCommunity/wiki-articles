@@ -1,10 +1,12 @@
 ---
 layout: post
 title: About
-author: papertek
+author: The Theaceae Collective
+description: Information about the wiki.
+date: 2024-10-02T16:33:25.118Z
 ---
 
-## Welcome to the Camellia Wiki
+## Welcome to the (New) Camellia Wiki (The Rewrite)
 
 This is the About page for the Camellia Wiki, where we will tell you about stuff. Wiki Stuff. Cool right?
 
@@ -14,15 +16,15 @@ Any further questions? Speak to us in the [Wiki](https://discord.com/channels/43
 
 ### The Goal
 
-This Wiki aims to document as much as we can when it comes to Camellia-related content, such as albums, collaborations, groups, aliases, and more. This Wiki is still very new; things may not seem as organized as a traditional wiki, but we hope our contributors can bring the site up to par with design, accessibility, navigation, and information.
-
-We are doing a pretty good job making document writing more effortless, as we have an [editor](/admin/) for people to try out!
+This Wiki aims to document as much as we can when it comes to Camellia and community-related content, such as albums, collaborations, groups, aliases, news, and more. This Wiki is still being heavily worked on. Things may not seem as organized as a traditional wiki, but we hope our contributors can bring the site up to par with design, accessibility, navigation, and information.
 
 ### Why not use MediaWiki, Fandom, or anything similar?
 
-At first, this website used to be a school project. I was approached one day by someone saying, "There should be an official Camellia Wiki," and I thought, dang, that's a cool idea! I quickly converted the school project site into the Camellia Wiki.
+At first, the site used to be a school project. I was approached one day by someone saying, "There should be an official Camellia Wiki," and I thought, dang, that's a cool idea! I quickly converted the school project site into the Camellia Wiki.
 
-At this point, I didn't want to consider other options because I wanted to keep things simple and original. There's also the whole Fandom controversy, so I tried to avoid Fandom altogether. There's a video about it [here](https://youtu.be/qcfuA_UAz3I) in case you're interested.
+At this point, I didn't want to consider other options because I wanted to keep things original. There's also the whole Fandom controversy, so I tried to avoid Fandom altogether. There's a video about it [here](https://youtu.be/qcfuA_UAz3I) in case you're interested.
+
+In recent times, though, the school project of the wiki has become too convoluted and hard to maintain. This is due to the codebase still being a heavily expanded school project, and our ambitions were too far to add to it. We decided to start rewriting the project in Vue.
 
 The wiki has been through a lot these past months and is still being worked on for improvement. You can see the design process below.
 
@@ -32,20 +34,22 @@ The wiki has been through a lot these past months and is still being worked on f
 
 ![Redesign 2](https://cdn.camellia.wiki/images/uploads/designold3.png)
 
-![Redesign 3 (Latest)](https://cdn.camellia.wiki/images/uploads/designlatest.png)
+![Redesign 3](https://cdn.camellia.wiki/images/uploads/designlatest.png)
 
-Yeah, this is still the same codebase.
+![Redesign 4 (latest)](https://raw.githubusercontent.com/CamelliaCommunity/.github/refs/heads/main/redesign4.png)
 
 ### Who runs this?
 
-Pretty much the programmers of the Camellia Discord staff team and our occasional contributors, including me. You can view all active contributors [here](https://github.com/CamelliaCommunity/Wiki/graphs/contributors).
+![Theaceae Collective Logo](https://raw.githubusercontent.com/CamelliaCommunity/.github/refs/heads/main/maintainedby.png)
+
+The Theaceae Collective! You can view the organization [here](https://github.com/CamelliaCommunity).
 
 I, papertek, am the lead of this project. Am I good at it? Not sure! But things have been smooth so far... Our group of contributors has done a great job keeping this project in a good state, including providing a custom domain! (thanks, Matt).
-
-Yeah, the Wiki is still relatively new, and there are some bugs and limitations.
 
 ### What's the point?
 
 To put it simply and bluntly, coolness. Doing this is fun and has been a learning experience for me personally, and I'm all up for it. If you would like to contribute some articles or code, we are not stopping you :).
 
-[Visit the GitHub!](https://github.com/CamelliaCommunity/Wiki)
+[Visit the frontend repository](https://github.com/CamelliaCommunity/Wiki)
+
+[Visit the article repository](https://github.com/CamelliaCommunity/wiki-articles)
