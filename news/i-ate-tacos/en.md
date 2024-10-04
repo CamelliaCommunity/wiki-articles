@@ -14,3 +14,5 @@ image: /robert.jpg
 Today we are testing cover images. This is Robert the lemon. I also ate tacos today. They were good. I like tacos.
 
 ![Robert the lemon](/robert.jpg)
+
+ROBERT IS SO FUCKING COOL
