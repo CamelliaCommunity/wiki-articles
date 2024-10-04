@@ -1,6 +1,6 @@
 ---
 layout: post
-type: community
+type: news
 title: Robert the Lemon
 date: 2024-10-04T18:26:20.034Z
 category: blog
