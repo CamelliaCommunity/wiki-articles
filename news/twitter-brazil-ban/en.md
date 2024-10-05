@@ -6,6 +6,7 @@ date: 2024-09-02 07:46 -0500
 category: pages
 author: papertek
 description: Elon Musk is an idiot
+image: /elon.png
 ---
 
 ## What happened?
