@@ -6,7 +6,7 @@ date: 2024-10-05T6:45:20.034Z
 category: pages
 author: The Theaceae Collective
 description: Give us money until the throbbing subsides
-image: /stockPhoto.jpg
+image: /stockPhoto.png
 ---
 
 ## Hello again
