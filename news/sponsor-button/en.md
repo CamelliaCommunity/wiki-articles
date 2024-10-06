@@ -17,4 +17,4 @@ What's the benefit of giving us your money? You get thoughts in return and maybe
 
 If you donate, you are ensuring good server quality, management, and giving us the opportunity to give more back!
 
-<iframe src="https://github.com/sponsors/CamelliaCommunity/card" title="Sponsor CamelliaCommunity" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/CamelliaCommunity/card" title="Sponsor CamelliaCommunity" height="225" style="border: 0;"></iframe>
