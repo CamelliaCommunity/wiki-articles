@@ -4,7 +4,7 @@ type: community
 title: Rectify 11 sucks
 date: 2024-10-08T06:45:20.034Z
 category: pages
-author: J6papertek
+author: papertek
 description: The developers are annoying
 image: /screenshot1.png
 ---
