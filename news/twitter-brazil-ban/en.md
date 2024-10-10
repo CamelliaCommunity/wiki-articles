@@ -10,7 +10,7 @@ image: /elon.png
 ---
 
 > Despite Musk's public bravado, X ultimately complied with all of de Moraes' demands. They included blocking certain accounts from the platform, paying outstanding fines and naming a legal representative in the country. Failure to do the latter had triggered the suspension.
-{: .caution }
+{: .warning }
 
 ## What happened?
 
