@@ -17,8 +17,6 @@ Rectify 11 is a modification for Windows 11 that advertises itself as "Something
 
 My main concern, however, is Rectify 11's buggy state and its developers. Even on Windows 11, the modification is still buggy, and people do not get the support they need to help fix these bugs. These bugs mostly involve light/dark mode and themes. Support isn't helpful much even for Windows 11 users.
 
-![Support is discouraged for people running Windows 10](/screenshot1.png "Support is discouraged for Windows 10 users")
-
 ![Broken text color on Windows 11](/screenshot4.png "Broken text color on Windows 11")
 
 I managed to fix most of the issues not by messing with the Registry editor but by messing with Rectify's "injection" (I uninstalled some things). Now, some things look a lot cleaner, but I still have the folder issue, but that's mainly on Windows 10.
