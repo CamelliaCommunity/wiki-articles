@@ -1,7 +1,7 @@
 ---
 layout: post
 type: community
-title: Rectify 11 sucks
+title: Rectify 11
 date: 2024-10-08T06:45:20.034Z
 category: pages
 author: papertek
@@ -18,10 +18,6 @@ Rectify 11 is a modification for Windows 11 that advertises itself as "Something
 My main concern, however, is Rectify 11's buggy state and its developers. Even on Windows 11, the modification is still buggy, and people do not get the support they need to help fix these bugs. These bugs mostly involve light/dark mode and themes. Support isn't helpful much even for Windows 11 users.
 
 ![Support is discouraged for people running Windows 10](/screenshot1.png "Support is discouraged for Windows 10 users")
-
-Even with base Rectify 11, support isn't really helpful.
-
-![No support despite using Rectify 11's features](/screenshot2.png "No support despite using Rectify 11's features")
 
 ![Broken text color on Windows 11](/screenshot4.png "Broken text color on Windows 11")
 
