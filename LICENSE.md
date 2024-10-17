@@ -1,6 +1,6 @@
 # Camellia Wiki Articles
 
-Copyright (c) 2024 Camellia Community
+Copyright (c) 2024 Theaceae Collective
 
 ### You are free to:
 -  **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
