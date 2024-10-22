@@ -5,6 +5,10 @@ date: 2024-03-09 02:37 -0600
 category: pages
 author: Theaceae Community
 ---
+
+> Due to a change of order, this document is not being enforced. Please spread the word on enforcement.
+{: .caution }
+
 ## Preamble
 
 > Go to the [Staff Guidelines](/community/server/guidelines).
