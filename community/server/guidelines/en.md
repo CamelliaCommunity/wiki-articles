@@ -5,6 +5,9 @@ date: 2023-7-24 08:23 -0600
 author: Theaceae Community
 ---
 
+> Due to a change of order, this document is not being enforced. Please spread the word on enforcement.
+{: .caution }
+
 > The Staff Guidelines were last updated on June 15th, 2024.
 {: .tip }
 
